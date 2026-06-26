@@ -2,7 +2,7 @@
 # Core Framework
 # ============================================
 streamlit==1.31.0
-pandas==2.1.4
+pandas==2.2.0
 numpy==1.26.3
 plotly==5.18.0
 scikit-learn==1.4.0
@@ -20,7 +20,7 @@ xgboost==2.0.3
 # Deep Learning (CPU-only for faster deploy)
 # ============================================
 # OR if you have specific GPU needs:
-# torch==2.1.2
+# torch==2.4.0
 
 # ============================================
 # Bayesian Methods (Optional - heavy install)
