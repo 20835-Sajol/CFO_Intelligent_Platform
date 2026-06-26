@@ -19,8 +19,6 @@ xgboost==2.0.3
 # ============================================
 # Deep Learning (CPU-only for faster deploy)
 # ============================================
-# Use CPU-only PyTorch (saves ~2GB and 10 min build time)
-torch==2.1.2+cpu
 # OR if you have specific GPU needs:
 # torch==2.1.2
 
