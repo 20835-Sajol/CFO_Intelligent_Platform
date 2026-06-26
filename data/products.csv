@@ -1,0 +1,277 @@
+product_id,product_name,category,subcategory,brand,size,unit_cost,mrp,standard_price,gst_rate
+P1001,Nestle Shampoo 100g,Personal Care,Shampoo,Nestle,100g,87.42,188.88,160.55,12
+P1002,Nestle Shampoo 250g,Personal Care,Shampoo,Nestle,250g,151.76,285.15,242.38,12
+P1003,Nestle Shampoo 500g,Personal Care,Shampoo,Nestle,500g,48.08,73.31,62.31,12
+P1004,Nestle Shampoo 1kg,Personal Care,Shampoo,Nestle,1kg,30.46,63.75,54.19,5
+P1005,Britannia Shampoo 100g,Personal Care,Shampoo,Britannia,100g,128.2,252.1,214.28,5
+P1006,Britannia Shampoo 250g,Personal Care,Shampoo,Britannia,250g,23.71,51.59,43.85,28
+P1007,Britannia Shampoo 500g,Personal Care,Shampoo,Britannia,500g,169.84,266.63,226.64,5
+P1008,Britannia Shampoo 1kg,Personal Care,Shampoo,Britannia,1kg,52.73,81.56,69.33,5
+P1009,ITC Shampoo 100g,Personal Care,Shampoo,ITC,100g,74.76,136.05,115.64,5
+P1010,ITC Shampoo 250g,Personal Care,Shampoo,ITC,250g,97.75,159.62,135.68,12
+P1011,ITC Shampoo 500g,Personal Care,Shampoo,ITC,500g,130.13,196.7,167.19,12
+P1012,ITC Shampoo 1kg,Personal Care,Shampoo,ITC,1kg,72.59,122.9,104.47,5
+P1013,Marico Toothpaste 100g,Personal Care,Toothpaste,Marico,100g,102.09,207.05,175.99,12
+P1014,Marico Toothpaste 250g,Personal Care,Toothpaste,Marico,250g,55.94,101.33,86.13,28
+P1015,Marico Toothpaste 500g,Personal Care,Toothpaste,Marico,500g,126.63,181.99,154.69,18
+P1016,Marico Toothpaste 1kg,Personal Care,Toothpaste,Marico,1kg,129.36,198.75,168.94,5
+P1017,Dabur Toothpaste 100g,Personal Care,Toothpaste,Dabur,100g,31.71,68.47,58.2,12
+P1018,Dabur Toothpaste 250g,Personal Care,Toothpaste,Dabur,250g,193.81,396.67,337.17,28
+P1019,Dabur Toothpaste 500g,Personal Care,Toothpaste,Dabur,500g,74.83,110.61,94.02,18
+P1020,Dabur Toothpaste 1kg,Personal Care,Toothpaste,Dabur,1kg,143.16,250.83,213.21,18
+P1021,Amul Toothpaste 100g,Personal Care,Toothpaste,Amul,100g,41.97,75.38,64.07,12
+P1022,Amul Toothpaste 250g,Personal Care,Toothpaste,Amul,250g,26.19,55.72,47.36,12
+P1023,Amul Toothpaste 500g,Personal Care,Toothpaste,Amul,500g,66.58,128.5,109.22,18
+P1024,Amul Toothpaste 1kg,Personal Care,Toothpaste,Amul,1kg,76.11,138.22,117.49,5
+P1025,Nestle Soap 100g,Personal Care,Soap,Nestle,100g,118.41,183.28,155.79,18
+P1026,Nestle Soap 250g,Personal Care,Soap,Nestle,250g,194.53,392.97,334.02,18
+P1027,Nestle Soap 500g,Personal Care,Soap,Nestle,500g,189.11,400.13,340.11,18
+P1028,Nestle Soap 1kg,Personal Care,Soap,Nestle,1kg,127.62,272.79,231.87,5
+P1029,Amul Soap 100g,Personal Care,Soap,Amul,100g,35.93,55.94,47.55,28
+P1030,Amul Soap 250g,Personal Care,Soap,Amul,250g,28.14,46.72,39.71,5
+P1031,Amul Soap 500g,Personal Care,Soap,Amul,500g,89.96,145.47,123.65,28
+P1032,Amul Soap 1kg,Personal Care,Soap,Amul,1kg,169.17,285.12,242.35,5
+P1033,Godrej Soap 100g,Personal Care,Soap,Godrej,100g,70.57,129.44,110.02,18
+P1034,Godrej Soap 250g,Personal Care,Soap,Godrej,250g,45.37,92.63,78.74,18
+P1035,Godrej Soap 500g,Personal Care,Soap,Godrej,500g,33.42,73.17,62.19,12
+P1036,Godrej Soap 1kg,Personal Care,Soap,Godrej,1kg,159.0,247.88,210.7,5
+P1037,Britannia Face Wash 100g,Personal Care,Face Wash,Britannia,100g,20.99,43.08,36.62,5
+P1038,Britannia Face Wash 250g,Personal Care,Face Wash,Britannia,250g,147.23,291.99,248.19,12
+P1039,Britannia Face Wash 500g,Personal Care,Face Wash,Britannia,500g,158.83,231.77,197.0,5
+P1040,Britannia Face Wash 1kg,Personal Care,Face Wash,Britannia,1kg,84.52,126.16,107.24,28
+P1041,Dabur Face Wash 100g,Personal Care,Face Wash,Dabur,100g,175.36,332.95,283.01,18
+P1042,Dabur Face Wash 250g,Personal Care,Face Wash,Dabur,250g,79.56,115.43,98.12,28
+P1043,Dabur Face Wash 500g,Personal Care,Face Wash,Dabur,500g,75.98,126.14,107.22,18
+P1044,Dabur Face Wash 1kg,Personal Care,Face Wash,Dabur,1kg,151.33,289.05,245.69,12
+P1045,ITC Face Wash 100g,Personal Care,Face Wash,ITC,100g,179.7,319.47,271.55,18
+P1046,ITC Face Wash 250g,Personal Care,Face Wash,ITC,250g,41.53,81.84,69.56,18
+P1047,ITC Face Wash 500g,Personal Care,Face Wash,ITC,500g,156.94,290.19,246.66,12
+P1048,ITC Face Wash 1kg,Personal Care,Face Wash,ITC,1kg,158.77,285.0,242.25,18
+P1049,Nestle Deodorant 100g,Personal Care,Deodorant,Nestle,100g,114.09,198.75,168.94,12
+P1050,Nestle Deodorant 250g,Personal Care,Deodorant,Nestle,250g,24.58,36.53,31.05,28
+P1051,Nestle Deodorant 500g,Personal Care,Deodorant,Nestle,500g,25.66,48.99,41.64,28
+P1052,Nestle Deodorant 1kg,Personal Care,Deodorant,Nestle,1kg,76.58,138.37,117.61,18
+P1053,HUL Deodorant 100g,Personal Care,Deodorant,HUL,100g,183.36,293.27,249.28,12
+P1054,HUL Deodorant 250g,Personal Care,Deodorant,HUL,250g,93.87,188.16,159.94,18
+P1055,HUL Deodorant 500g,Personal Care,Deodorant,HUL,500g,61.18,89.42,76.01,5
+P1056,HUL Deodorant 1kg,Personal Care,Deodorant,HUL,1kg,72.16,110.33,93.78,12
+P1057,Dabur Deodorant 100g,Personal Care,Deodorant,Dabur,100g,187.35,383.41,325.9,5
+P1058,Dabur Deodorant 250g,Personal Care,Deodorant,Dabur,250g,134.01,281.04,238.88,18
+P1059,Dabur Deodorant 500g,Personal Care,Deodorant,Dabur,500g,164.66,255.1,216.83,28
+P1060,Dabur Deodorant 1kg,Personal Care,Deodorant,Dabur,1kg,180.66,330.87,281.24,18
+P1061,Nestle Noodles 100g,Food & Beverages,Noodles,Nestle,100g,165.34,350.0,297.5,12
+P1062,Nestle Noodles 250g,Food & Beverages,Noodles,Nestle,250g,77.24,114.94,97.7,28
+P1063,Nestle Noodles 500g,Food & Beverages,Noodles,Nestle,500g,61.03,106.3,90.35,28
+P1064,Nestle Noodles 1kg,Food & Beverages,Noodles,Nestle,1kg,167.24,349.29,296.9,28
+P1065,Dabur Noodles 100g,Food & Beverages,Noodles,Dabur,100g,21.25,38.43,32.67,12
+P1066,Dabur Noodles 250g,Food & Beverages,Noodles,Dabur,250g,95.13,150.09,127.58,18
+P1067,Dabur Noodles 500g,Food & Beverages,Noodles,Dabur,500g,41.58,69.44,59.02,12
+P1068,Dabur Noodles 1kg,Food & Beverages,Noodles,Dabur,1kg,189.72,314.66,267.46,12
+P1069,Parle Noodles 100g,Food & Beverages,Noodles,Parle,100g,113.38,222.5,189.12,18
+P1070,Parle Noodles 250g,Food & Beverages,Noodles,Parle,250g,85.45,186.06,158.15,28
+P1071,Parle Noodles 500g,Food & Beverages,Noodles,Parle,500g,193.24,309.46,263.04,28
+P1072,Parle Noodles 1kg,Food & Beverages,Noodles,Parle,1kg,109.5,179.66,152.71,18
+P1073,Dabur Biscuits 100g,Food & Beverages,Biscuits,Dabur,100g,71.27,101.88,86.6,5
+P1074,Dabur Biscuits 250g,Food & Beverages,Biscuits,Dabur,250g,129.72,233.77,198.7,5
+P1075,Dabur Biscuits 500g,Food & Beverages,Biscuits,Dabur,500g,29.27,47.5,40.38,5
+P1076,Dabur Biscuits 1kg,Food & Beverages,Biscuits,Dabur,1kg,183.49,292.05,248.24,12
+P1077,HUL Biscuits 100g,Food & Beverages,Biscuits,HUL,100g,46.08,82.56,70.18,12
+P1078,HUL Biscuits 250g,Food & Beverages,Biscuits,HUL,250g,197.42,314.62,267.43,28
+P1079,HUL Biscuits 500g,Food & Beverages,Biscuits,HUL,500g,140.98,283.27,240.78,5
+P1080,HUL Biscuits 1kg,Food & Beverages,Biscuits,HUL,1kg,62.77,124.45,105.78,28
+P1081,Patanjali Biscuits 100g,Food & Beverages,Biscuits,Patanjali,100g,86.2,164.28,139.64,28
+P1082,Patanjali Biscuits 250g,Food & Beverages,Biscuits,Patanjali,250g,134.04,245.11,208.34,28
+P1083,Patanjali Biscuits 500g,Food & Beverages,Biscuits,Patanjali,500g,36.25,74.97,63.72,18
+P1084,Patanjali Biscuits 1kg,Food & Beverages,Biscuits,Patanjali,1kg,77.74,120.44,102.37,5
+P1085,Nestle Snacks 100g,Food & Beverages,Snacks,Nestle,100g,27.34,51.2,43.52,18
+P1086,Nestle Snacks 250g,Food & Beverages,Snacks,Nestle,250g,141.96,200.63,170.54,5
+P1087,Nestle Snacks 500g,Food & Beverages,Snacks,Nestle,500g,112.18,177.38,150.77,18
+P1088,Nestle Snacks 1kg,Food & Beverages,Snacks,Nestle,1kg,136.13,209.57,178.13,28
+P1089,Marico Snacks 100g,Food & Beverages,Snacks,Marico,100g,144.37,246.78,209.76,12
+P1090,Marico Snacks 250g,Food & Beverages,Snacks,Marico,250g,188.61,284.8,242.08,28
+P1091,Marico Snacks 500g,Food & Beverages,Snacks,Marico,500g,81.39,121.33,103.13,5
+P1092,Marico Snacks 1kg,Food & Beverages,Snacks,Marico,1kg,186.44,391.87,333.09,18
+P1093,ITC Snacks 100g,Food & Beverages,Snacks,ITC,100g,66.43,128.08,108.87,12
+P1094,ITC Snacks 250g,Food & Beverages,Snacks,ITC,250g,167.1,308.16,261.94,5
+P1095,ITC Snacks 500g,Food & Beverages,Snacks,ITC,500g,115.34,183.79,156.22,18
+P1096,ITC Snacks 1kg,Food & Beverages,Snacks,ITC,1kg,36.76,77.85,66.17,12
+P1097,HUL Juice 100g,Food & Beverages,Juice,HUL,100g,182.08,347.13,295.06,5
+P1098,HUL Juice 250g,Food & Beverages,Juice,HUL,250g,81.03,136.08,115.67,18
+P1099,HUL Juice 500g,Food & Beverages,Juice,HUL,500g,150.67,319.07,271.21,28
+P1100,HUL Juice 1kg,Food & Beverages,Juice,HUL,1kg,179.68,363.65,309.1,5
+P1101,Parle Juice 100g,Food & Beverages,Juice,Parle,100g,135.57,198.92,169.08,5
+P1102,Parle Juice 250g,Food & Beverages,Juice,Parle,250g,49.09,104.01,88.41,18
+P1103,Parle Juice 500g,Food & Beverages,Juice,Parle,500g,129.16,181.77,154.5,18
+P1104,Parle Juice 1kg,Food & Beverages,Juice,Parle,1kg,38.26,73.87,62.79,12
+P1105,Godrej Juice 100g,Food & Beverages,Juice,Godrej,100g,20.91,31.96,27.17,5
+P1106,Godrej Juice 250g,Food & Beverages,Juice,Godrej,250g,118.77,232.02,197.22,12
+P1107,Godrej Juice 500g,Food & Beverages,Juice,Godrej,500g,137.35,216.93,184.39,5
+P1108,Godrej Juice 1kg,Food & Beverages,Juice,Godrej,1kg,148.19,235.59,200.25,5
+P1109,Patanjali Tea 100g,Food & Beverages,Tea,Patanjali,100g,78.57,156.92,133.38,12
+P1110,Patanjali Tea 250g,Food & Beverages,Tea,Patanjali,250g,136.93,284.73,242.02,28
+P1111,Patanjali Tea 500g,Food & Beverages,Tea,Patanjali,500g,138.37,256.63,218.14,12
+P1112,Patanjali Tea 1kg,Food & Beverages,Tea,Patanjali,1kg,36.86,62.45,53.08,18
+P1113,Nestle Tea 100g,Food & Beverages,Tea,Nestle,100g,67.74,108.06,91.85,28
+P1114,Nestle Tea 250g,Food & Beverages,Tea,Nestle,250g,195.14,334.56,284.38,12
+P1115,Nestle Tea 500g,Food & Beverages,Tea,Nestle,500g,180.57,343.97,292.37,12
+P1116,Nestle Tea 1kg,Food & Beverages,Tea,Nestle,1kg,163.07,293.87,249.79,18
+P1117,HUL Tea 100g,Food & Beverages,Tea,HUL,100g,123.84,222.17,188.84,28
+P1118,HUL Tea 250g,Food & Beverages,Tea,HUL,250g,55.14,109.06,92.7,18
+P1119,HUL Tea 500g,Food & Beverages,Tea,HUL,500g,70.54,100.13,85.11,28
+P1120,HUL Tea 1kg,Food & Beverages,Tea,HUL,1kg,136.19,209.96,178.47,28
+P1121,Nestle Coffee 100g,Food & Beverages,Coffee,Nestle,100g,189.28,409.44,348.02,5
+P1122,Nestle Coffee 250g,Food & Beverages,Coffee,Nestle,250g,184.68,313.24,266.25,18
+P1123,Nestle Coffee 500g,Food & Beverages,Coffee,Nestle,500g,22.78,48.81,41.49,5
+P1124,Nestle Coffee 1kg,Food & Beverages,Coffee,Nestle,1kg,97.07,210.96,179.32,12
+P1125,Dabur Coffee 100g,Food & Beverages,Coffee,Dabur,100g,193.45,402.84,342.41,12
+P1126,Dabur Coffee 250g,Food & Beverages,Coffee,Dabur,250g,73.0,124.69,105.99,5
+P1127,Dabur Coffee 500g,Food & Beverages,Coffee,Dabur,500g,173.2,286.39,243.43,5
+P1128,Dabur Coffee 1kg,Food & Beverages,Coffee,Dabur,1kg,50.51,93.21,79.23,5
+P1129,Marico Coffee 100g,Food & Beverages,Coffee,Marico,100g,188.51,368.88,313.55,12
+P1130,Marico Coffee 250g,Food & Beverages,Coffee,Marico,250g,122.61,181.19,154.01,5
+P1131,Marico Coffee 500g,Food & Beverages,Coffee,Marico,500g,130.7,286.5,243.53,5
+P1132,Marico Coffee 1kg,Food & Beverages,Coffee,Marico,1kg,45.22,82.06,69.75,18
+P1133,Nestle Detergent 100g,Home Care,Detergent,Nestle,100g,177.93,354.55,301.37,18
+P1134,Nestle Detergent 250g,Home Care,Detergent,Nestle,250g,145.46,285.39,242.58,28
+P1135,Nestle Detergent 500g,Home Care,Detergent,Nestle,500g,84.71,138.49,117.72,12
+P1136,Nestle Detergent 1kg,Home Care,Detergent,Nestle,1kg,165.69,339.35,288.45,12
+P1137,Marico Detergent 100g,Home Care,Detergent,Marico,100g,176.07,375.13,318.86,28
+P1138,Marico Detergent 250g,Home Care,Detergent,Marico,250g,112.04,201.81,171.54,12
+P1139,Marico Detergent 500g,Home Care,Detergent,Marico,500g,163.69,314.28,267.14,28
+P1140,Marico Detergent 1kg,Home Care,Detergent,Marico,1kg,146.35,298.06,253.35,28
+P1141,Dabur Detergent 100g,Home Care,Detergent,Dabur,100g,180.2,301.01,255.86,12
+P1142,Dabur Detergent 250g,Home Care,Detergent,Dabur,250g,87.6,129.23,109.85,5
+P1143,Dabur Detergent 500g,Home Care,Detergent,Dabur,500g,124.09,177.29,150.7,5
+P1144,Dabur Detergent 1kg,Home Care,Detergent,Dabur,1kg,103.81,190.4,161.84,28
+P1145,Parle Dishwash 100g,Home Care,Dishwash,Parle,100g,71.58,134.05,113.94,28
+P1146,Parle Dishwash 250g,Home Care,Dishwash,Parle,250g,25.49,36.45,30.98,5
+P1147,Parle Dishwash 500g,Home Care,Dishwash,Parle,500g,168.07,283.73,241.17,5
+P1148,Parle Dishwash 1kg,Home Care,Dishwash,Parle,1kg,42.87,77.93,66.24,5
+P1149,Amul Dishwash 100g,Home Care,Dishwash,Amul,100g,158.6,249.42,212.01,28
+P1150,Amul Dishwash 250g,Home Care,Dishwash,Amul,250g,132.12,193.99,164.89,18
+P1151,Amul Dishwash 500g,Home Care,Dishwash,Amul,500g,29.3,53.47,45.45,5
+P1152,Amul Dishwash 1kg,Home Care,Dishwash,Amul,1kg,117.31,224.06,190.45,12
+P1153,Marico Dishwash 100g,Home Care,Dishwash,Marico,100g,150.7,328.63,279.34,12
+P1154,Marico Dishwash 250g,Home Care,Dishwash,Marico,250g,112.93,187.28,159.19,12
+P1155,Marico Dishwash 500g,Home Care,Dishwash,Marico,500g,163.13,263.73,224.17,28
+P1156,Marico Dishwash 1kg,Home Care,Dishwash,Marico,1kg,99.01,144.83,123.11,12
+P1157,Amul Floor Cleaner 100g,Home Care,Floor Cleaner,Amul,100g,24.56,53.3,45.3,28
+P1158,Amul Floor Cleaner 250g,Home Care,Floor Cleaner,Amul,250g,170.48,333.59,283.55,12
+P1159,Amul Floor Cleaner 500g,Home Care,Floor Cleaner,Amul,500g,93.61,144.03,122.43,5
+P1160,Amul Floor Cleaner 1kg,Home Care,Floor Cleaner,Amul,1kg,48.16,77.07,65.51,28
+P1161,HUL Floor Cleaner 100g,Home Care,Floor Cleaner,HUL,100g,118.86,234.35,199.2,5
+P1162,HUL Floor Cleaner 250g,Home Care,Floor Cleaner,HUL,250g,138.84,225.47,191.65,5
+P1163,HUL Floor Cleaner 500g,Home Care,Floor Cleaner,HUL,500g,191.88,381.9,324.61,5
+P1164,HUL Floor Cleaner 1kg,Home Care,Floor Cleaner,HUL,1kg,119.78,226.31,192.36,5
+P1165,ITC Floor Cleaner 100g,Home Care,Floor Cleaner,ITC,100g,95.53,152.67,129.77,12
+P1166,ITC Floor Cleaner 250g,Home Care,Floor Cleaner,ITC,250g,84.08,168.69,143.39,12
+P1167,ITC Floor Cleaner 500g,Home Care,Floor Cleaner,ITC,500g,22.59,33.72,28.66,28
+P1168,ITC Floor Cleaner 1kg,Home Care,Floor Cleaner,ITC,1kg,28.28,40.51,34.43,28
+P1169,Patanjali Toilet Cleaner 100g,Home Care,Toilet Cleaner,Patanjali,100g,173.98,341.51,290.28,5
+P1170,Patanjali Toilet Cleaner 250g,Home Care,Toilet Cleaner,Patanjali,250g,105.35,155.74,132.38,12
+P1171,Patanjali Toilet Cleaner 500g,Home Care,Toilet Cleaner,Patanjali,500g,108.49,192.98,164.03,28
+P1172,Patanjali Toilet Cleaner 1kg,Home Care,Toilet Cleaner,Patanjali,1kg,51.18,89.42,76.01,5
+P1173,Dabur Toilet Cleaner 100g,Home Care,Toilet Cleaner,Dabur,100g,91.73,173.62,147.58,28
+P1174,Dabur Toilet Cleaner 250g,Home Care,Toilet Cleaner,Dabur,250g,134.32,192.92,163.98,18
+P1175,Dabur Toilet Cleaner 500g,Home Care,Toilet Cleaner,Dabur,500g,87.43,166.18,141.25,28
+P1176,Dabur Toilet Cleaner 1kg,Home Care,Toilet Cleaner,Dabur,1kg,110.56,230.54,195.96,18
+P1177,Amul Toilet Cleaner 100g,Home Care,Toilet Cleaner,Amul,100g,138.56,212.04,180.23,28
+P1178,Amul Toilet Cleaner 250g,Home Care,Toilet Cleaner,Amul,250g,32.7,62.59,53.2,28
+P1179,Amul Toilet Cleaner 500g,Home Care,Toilet Cleaner,Amul,500g,24.77,46.29,39.35,12
+P1180,Amul Toilet Cleaner 1kg,Home Care,Toilet Cleaner,Amul,1kg,189.24,352.06,299.25,12
+P1181,ITC Milk 100g,Dairy,Milk,ITC,100g,89.87,172.07,146.26,5
+P1182,ITC Milk 250g,Dairy,Milk,ITC,250g,102.49,188.22,159.99,18
+P1183,ITC Milk 500g,Dairy,Milk,ITC,500g,189.46,323.76,275.2,5
+P1184,ITC Milk 1kg,Dairy,Milk,ITC,1kg,193.01,410.01,348.51,5
+P1185,Dabur Milk 100g,Dairy,Milk,Dabur,100g,55.24,80.4,68.34,28
+P1186,Dabur Milk 250g,Dairy,Milk,Dabur,250g,38.14,53.95,45.86,12
+P1187,Dabur Milk 500g,Dairy,Milk,Dabur,500g,37.0,72.02,61.22,5
+P1188,Dabur Milk 1kg,Dairy,Milk,Dabur,1kg,32.81,54.31,46.16,5
+P1189,Britannia Milk 100g,Dairy,Milk,Britannia,100g,172.08,244.12,207.5,12
+P1190,Britannia Milk 250g,Dairy,Milk,Britannia,250g,166.6,270.81,230.19,5
+P1191,Britannia Milk 500g,Dairy,Milk,Britannia,500g,41.27,80.78,68.66,5
+P1192,Britannia Milk 1kg,Dairy,Milk,Britannia,1kg,133.21,280.0,238.0,12
+P1193,Amul Curd 100g,Dairy,Curd,Amul,100g,152.31,311.14,264.47,5
+P1194,Amul Curd 250g,Dairy,Curd,Amul,250g,70.77,109.12,92.75,5
+P1195,Amul Curd 500g,Dairy,Curd,Amul,500g,155.11,317.27,269.68,28
+P1196,Amul Curd 1kg,Dairy,Curd,Amul,1kg,198.29,343.06,291.6,18
+P1197,Nestle Curd 100g,Dairy,Curd,Nestle,100g,86.96,175.76,149.4,18
+P1198,Nestle Curd 250g,Dairy,Curd,Nestle,250g,81.34,174.44,148.27,12
+P1199,Nestle Curd 500g,Dairy,Curd,Nestle,500g,174.51,304.2,258.57,18
+P1200,Nestle Curd 1kg,Dairy,Curd,Nestle,1kg,155.16,310.88,264.25,12
+P1201,Dabur Curd 100g,Dairy,Curd,Dabur,100g,38.56,81.83,69.56,18
+P1202,Dabur Curd 250g,Dairy,Curd,Dabur,250g,110.95,228.69,194.39,28
+P1203,Dabur Curd 500g,Dairy,Curd,Dabur,500g,77.61,164.26,139.62,12
+P1204,Dabur Curd 1kg,Dairy,Curd,Dabur,1kg,90.06,126.86,107.83,18
+P1205,Patanjali Butter 100g,Dairy,Butter,Patanjali,100g,182.97,269.52,229.09,5
+P1206,Patanjali Butter 250g,Dairy,Butter,Patanjali,250g,77.48,167.36,142.26,28
+P1207,Patanjali Butter 500g,Dairy,Butter,Patanjali,500g,191.11,355.23,301.95,5
+P1208,Patanjali Butter 1kg,Dairy,Butter,Patanjali,1kg,133.73,235.2,199.92,5
+P1209,Parle Butter 100g,Dairy,Butter,Parle,100g,72.78,121.03,102.88,12
+P1210,Parle Butter 250g,Dairy,Butter,Parle,250g,141.05,282.37,240.01,18
+P1211,Parle Butter 500g,Dairy,Butter,Parle,500g,162.48,330.11,280.59,12
+P1212,Parle Butter 1kg,Dairy,Butter,Parle,1kg,36.42,65.39,55.58,18
+P1213,Nestle Butter 100g,Dairy,Butter,Nestle,100g,30.36,55.85,47.47,5
+P1214,Nestle Butter 250g,Dairy,Butter,Nestle,250g,99.48,209.92,178.43,12
+P1215,Nestle Butter 500g,Dairy,Butter,Nestle,500g,83.16,124.21,105.58,18
+P1216,Nestle Butter 1kg,Dairy,Butter,Nestle,1kg,45.74,91.9,78.12,18
+P1217,HUL Cheese 100g,Dairy,Cheese,HUL,100g,131.28,194.41,165.25,5
+P1218,HUL Cheese 250g,Dairy,Cheese,HUL,250g,35.14,68.9,58.57,18
+P1219,HUL Cheese 500g,Dairy,Cheese,HUL,500g,33.1,68.1,57.88,5
+P1220,HUL Cheese 1kg,Dairy,Cheese,HUL,1kg,147.12,215.54,183.21,12
+P1221,Patanjali Cheese 100g,Dairy,Cheese,Patanjali,100g,35.27,77.22,65.64,18
+P1222,Patanjali Cheese 250g,Dairy,Cheese,Patanjali,250g,87.37,148.22,125.99,5
+P1223,Patanjali Cheese 500g,Dairy,Cheese,Patanjali,500g,166.3,358.84,305.01,5
+P1224,Patanjali Cheese 1kg,Dairy,Cheese,Patanjali,1kg,197.48,395.49,336.17,12
+P1225,ITC Cheese 100g,Dairy,Cheese,ITC,100g,87.73,128.68,109.38,18
+P1226,ITC Cheese 250g,Dairy,Cheese,ITC,250g,159.89,295.27,250.98,18
+P1227,ITC Cheese 500g,Dairy,Cheese,ITC,500g,96.36,204.77,174.05,12
+P1228,ITC Cheese 1kg,Dairy,Cheese,ITC,1kg,40.02,71.8,61.03,18
+P1229,Dabur Yogurt 100g,Dairy,Yogurt,Dabur,100g,22.04,39.12,33.25,18
+P1230,Dabur Yogurt 250g,Dairy,Yogurt,Dabur,250g,30.13,45.05,38.29,5
+P1231,Dabur Yogurt 500g,Dairy,Yogurt,Dabur,500g,41.15,78.98,67.13,5
+P1232,Dabur Yogurt 1kg,Dairy,Yogurt,Dabur,1kg,154.29,288.01,244.81,28
+P1233,ITC Yogurt 100g,Dairy,Yogurt,ITC,100g,193.19,328.4,279.14,18
+P1234,ITC Yogurt 250g,Dairy,Yogurt,ITC,250g,71.43,149.64,127.19,5
+P1235,ITC Yogurt 500g,Dairy,Yogurt,ITC,500g,60.25,130.78,111.16,5
+P1236,ITC Yogurt 1kg,Dairy,Yogurt,ITC,1kg,22.19,48.28,41.04,18
+P1237,Patanjali Yogurt 100g,Dairy,Yogurt,Patanjali,100g,27.77,58.68,49.88,12
+P1238,Patanjali Yogurt 250g,Dairy,Yogurt,Patanjali,250g,114.99,252.33,214.48,18
+P1239,Patanjali Yogurt 500g,Dairy,Yogurt,Patanjali,500g,33.28,61.34,52.14,12
+P1240,Patanjali Yogurt 1kg,Dairy,Yogurt,Patanjali,1kg,194.47,353.64,300.59,28
+P1241,Marico Bread 100g,Bakery,Bread,Marico,100g,133.29,260.8,221.68,5
+P1242,Marico Bread 250g,Bakery,Bread,Marico,250g,101.82,193.67,164.62,5
+P1243,Marico Bread 500g,Bakery,Bread,Marico,500g,125.18,265.5,225.67,12
+P1244,Marico Bread 1kg,Bakery,Bread,Marico,1kg,28.18,45.79,38.92,5
+P1245,Amul Bread 100g,Bakery,Bread,Amul,100g,191.07,403.58,343.04,18
+P1246,Amul Bread 250g,Bakery,Bread,Amul,250g,102.02,193.44,164.42,12
+P1247,Amul Bread 500g,Bakery,Bread,Amul,500g,69.93,108.43,92.17,28
+P1248,Amul Bread 1kg,Bakery,Bread,Amul,1kg,103.47,174.11,147.99,12
+P1249,Britannia Bread 100g,Bakery,Bread,Britannia,100g,125.06,182.86,155.43,5
+P1250,Britannia Bread 250g,Bakery,Bread,Britannia,250g,195.39,427.7,363.54,18
+P1251,Britannia Bread 500g,Bakery,Bread,Britannia,500g,145.67,266.41,226.45,18
+P1252,Britannia Bread 1kg,Bakery,Bread,Britannia,1kg,75.71,155.28,131.99,5
+P1253,Parle Cakes 100g,Bakery,Cakes,Parle,100g,143.25,219.19,186.31,5
+P1254,Parle Cakes 250g,Bakery,Cakes,Parle,250g,183.97,378.62,321.83,18
+P1255,Parle Cakes 500g,Bakery,Cakes,Parle,500g,190.96,378.21,321.48,28
+P1256,Parle Cakes 1kg,Bakery,Cakes,Parle,1kg,130.41,226.21,192.28,12
+P1257,Dabur Cakes 100g,Bakery,Cakes,Dabur,100g,187.89,393.23,334.25,12
+P1258,Dabur Cakes 250g,Bakery,Cakes,Dabur,250g,28.14,39.99,33.99,12
+P1259,Dabur Cakes 500g,Bakery,Cakes,Dabur,500g,87.76,179.77,152.8,12
+P1260,Dabur Cakes 1kg,Bakery,Cakes,Dabur,1kg,197.71,300.59,255.5,28
+P1261,Marico Cakes 100g,Bakery,Cakes,Marico,100g,126.94,216.4,183.94,5
+P1262,Marico Cakes 250g,Bakery,Cakes,Marico,250g,194.58,403.5,342.97,12
+P1263,Marico Cakes 500g,Bakery,Cakes,Marico,500g,170.9,303.34,257.84,18
+P1264,Marico Cakes 1kg,Bakery,Cakes,Marico,1kg,94.67,153.24,130.25,28
+P1265,Dabur Cookies 100g,Bakery,Cookies,Dabur,100g,30.15,63.07,53.61,5
+P1266,Dabur Cookies 250g,Bakery,Cookies,Dabur,250g,166.32,365.87,310.99,28
+P1267,Dabur Cookies 500g,Bakery,Cookies,Dabur,500g,199.39,367.74,312.58,5
+P1268,Dabur Cookies 1kg,Bakery,Cookies,Dabur,1kg,158.42,341.52,290.29,28
+P1269,ITC Cookies 100g,Bakery,Cookies,ITC,100g,172.94,276.34,234.89,12
+P1270,ITC Cookies 250g,Bakery,Cookies,ITC,250g,101.1,151.99,129.19,12
+P1271,ITC Cookies 500g,Bakery,Cookies,ITC,500g,191.73,361.4,307.19,28
+P1272,ITC Cookies 1kg,Bakery,Cookies,ITC,1kg,61.16,118.49,100.72,18
+P1273,HUL Cookies 100g,Bakery,Cookies,HUL,100g,131.26,221.37,188.16,18
+P1274,HUL Cookies 250g,Bakery,Cookies,HUL,250g,40.44,78.34,66.59,12
+P1275,HUL Cookies 500g,Bakery,Cookies,HUL,500g,113.66,229.35,194.95,12
+P1276,HUL Cookies 1kg,Bakery,Cookies,HUL,1kg,113.63,236.55,201.07,5

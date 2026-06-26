@@ -1,0 +1,801 @@
+outlet_id,outlet_name,outlet_type,outlet_subtype,region,city,state,credit_days,credit_limit,onboarded_date
+OUT5001,Madan Ltd,General Trade,Chemist,West,Ahmedabad,Odisha,0,250000,2025-08-23
+OUT5002,Sharma LLC,General Trade,Provision Store,Central,Nagpur,Odisha,45,250000,2024-06-26
+OUT5003,"Desai, Morar and Thakkar",HoReCa,Cafes,North,Jaipur,Nagaland,45,250000,2025-10-05
+OUT5004,"Varkey, Rau and Karan",Modern Trade,More,Central,Indore,Maharashtra,60,250000,2024-05-16
+OUT5005,"Naik, Nagarajan and Tailor",General Trade,Kirana Store,Central,Indore,Tamil Nadu,45,100000,2024-04-25
+OUT5006,"Maharaj, Manda and Datta",General Trade,Kirana Store,West,Pune,Uttarakhand,15,500000,2024-05-14
+OUT5007,"Doctor, Bhasin and Goyal",Modern Trade,Spencer,East,Bhubaneswar,Uttarakhand,60,50000,2025-11-06
+OUT5008,Buch-Buch,E-commerce,Blinkit,East,Bhubaneswar,Nagaland,60,500000,2023-12-28
+OUT5009,Bhandari-Kant,General Trade,Supermarket,East,Kolkata,Gujarat,30,500000,2023-09-11
+OUT5010,"Bhavsar, Borde and Bhatnagar",General Trade,Chemist,South,Kochi,Arunachal Pradesh,45,50000,2024-09-30
+OUT5011,Krishnan-Ghosh,General Trade,Provision Store,South,Hyderabad,Mizoram,30,500000,2023-11-18
+OUT5012,Yohannan-Halder,General Trade,Provision Store,South,Chennai,Himachal Pradesh,60,50000,2025-11-01
+OUT5013,Ben-Rajagopal,General Trade,Chemist,Central,Bhopal,Assam,7,250000,2026-02-28
+OUT5014,Ahluwalia Ltd,General Trade,Supermarket,South,Bangalore,Manipur,0,100000,2026-03-05
+OUT5015,"Devan, Chaudhary and Dayal",HoReCa,Hotels,Central,Indore,Madhya Pradesh,30,1000000,2024-02-03
+OUT5016,Oak-Dar,Modern Trade,More,West,Surat,Tamil Nadu,7,100000,2024-08-29
+OUT5017,"Mohanty, Nadig and Chakrabarti",General Trade,Kirana Store,North,Chandigarh,Himachal Pradesh,7,100000,2024-10-20
+OUT5018,Raghavan-Balan,Institutional,Canteens,Central,Bhopal,Tripura,45,100000,2026-01-28
+OUT5019,Hora-Nagy,HoReCa,Caterers,North,Jaipur,Assam,30,1000000,2026-04-13
+OUT5020,Din-Tata,HoReCa,Cafes,Central,Indore,Punjab,45,1000000,2025-05-21
+OUT5021,Shroff Group,General Trade,Provision Store,Central,Bhopal,Tripura,60,500000,2026-05-08
+OUT5022,Bhatia Inc,General Trade,Chemist,South,Kochi,Meghalaya,60,100000,2026-05-01
+OUT5023,Kadakia-Devi,General Trade,Chemist,North,Jaipur,Haryana,15,250000,2025-05-06
+OUT5024,"Chandra, Pau and Chokshi",General Trade,Kirana Store,Central,Bhopal,Tamil Nadu,7,100000,2024-10-02
+OUT5025,Rama-Sarraf,General Trade,Supermarket,South,Bangalore,Uttarakhand,30,500000,2026-01-29
+OUT5026,Sama Ltd,General Trade,Provision Store,West,Mumbai,Karnataka,7,500000,2025-07-02
+OUT5027,Som PLC,General Trade,Kirana Store,Central,Nagpur,Tripura,30,500000,2023-09-12
+OUT5028,Kade LLC,Modern Trade,Big Bazaar,East,Bhubaneswar,Sikkim,30,1000000,2025-05-04
+OUT5029,Bava-Hora,E-commerce,Blinkit,Central,Bhopal,West Bengal,30,100000,2025-03-10
+OUT5030,Apte Ltd,General Trade,Kirana Store,West,Surat,Tripura,15,500000,2025-09-18
+OUT5031,Ray Group,E-commerce,Flipkart,West,Mumbai,Jharkhand,30,1000000,2024-07-07
+OUT5032,"Bali, Toor and Dhillon",General Trade,Kirana Store,North,Chandigarh,West Bengal,7,500000,2025-10-04
+OUT5033,Aggarwal-Varma,Modern Trade,More,East,Bhubaneswar,Uttarakhand,7,500000,2023-07-16
+OUT5034,"Kale, Mahajan and Sundaram",General Trade,Chemist,West,Surat,Haryana,15,50000,2026-04-01
+OUT5035,"Bandi, Badal and Dua",General Trade,Kirana Store,Central,Indore,West Bengal,7,50000,2025-02-14
+OUT5036,Mangal Inc,E-commerce,Amazon,North,Jaipur,Jharkhand,7,50000,2024-04-27
+OUT5037,"Rau, Dube and Khanna",General Trade,Supermarket,South,Kochi,Mizoram,60,50000,2024-06-14
+OUT5038,"Parsa, Kala and Reddy",General Trade,Provision Store,South,Hyderabad,Uttarakhand,15,100000,2025-11-06
+OUT5039,Khurana PLC,General Trade,Supermarket,North,Lucknow,Odisha,0,1000000,2026-04-20
+OUT5040,"Sheth, Rattan and Jhaveri",Modern Trade,Spencer,East,Guwahati,Chhattisgarh,30,500000,2025-08-28
+OUT5041,Krishna Group,HoReCa,Hotels,South,Chennai,Assam,0,250000,2026-05-09
+OUT5042,"Pau, Sidhu and Palla",Institutional,Schools,Central,Nagpur,Gujarat,0,250000,2023-07-13
+OUT5043,Nagy Inc,General Trade,Kirana Store,East,Guwahati,Rajasthan,60,250000,2024-02-21
+OUT5044,"Hegde, Om and Sant",Modern Trade,More,West,Mumbai,Uttar Pradesh,30,250000,2024-05-28
+OUT5045,Divan-Setty,General Trade,Supermarket,West,Surat,Himachal Pradesh,7,1000000,2026-05-17
+OUT5046,Bhattacharyya and Sons,HoReCa,Caterers,East,Bhubaneswar,Rajasthan,30,1000000,2024-12-24
+OUT5047,Natt Ltd,General Trade,Kirana Store,South,Hyderabad,Manipur,30,100000,2025-04-16
+OUT5048,Grover-Bakshi,E-commerce,Blinkit,Central,Nagpur,Andhra Pradesh,30,250000,2024-05-12
+OUT5049,Shroff PLC,Modern Trade,D-Mart,East,Bhubaneswar,Manipur,7,250000,2026-01-17
+OUT5050,Doshi-Bhatia,E-commerce,JioMart,East,Guwahati,Haryana,60,250000,2024-08-10
+OUT5051,Bala-Ravi,General Trade,Supermarket,Central,Bhopal,Tripura,7,500000,2024-02-18
+OUT5052,"Sethi, Mandal and Dave",General Trade,Provision Store,South,Kochi,Mizoram,30,50000,2023-07-06
+OUT5053,"Reddy, Lall and Baria",Modern Trade,More,South,Chennai,Andhra Pradesh,15,1000000,2025-04-08
+OUT5054,"Suresh, Parmar and Desai",General Trade,Chemist,Central,Indore,Gujarat,60,1000000,2025-09-05
+OUT5055,"Cheema, Khurana and Sethi",General Trade,Chemist,West,Ahmedabad,Nagaland,15,100000,2026-03-02
+OUT5056,"Shere, Kapur and Vyas",Modern Trade,Big Bazaar,South,Bangalore,Manipur,60,1000000,2024-04-29
+OUT5057,"Ranganathan, Chandran and Johal",HoReCa,Restaurants,South,Chennai,Gujarat,60,500000,2024-08-21
+OUT5058,Mukhopadhyay and Sons,General Trade,Chemist,Central,Bhopal,Tripura,7,250000,2025-05-08
+OUT5059,Dhar-Sethi,General Trade,Chemist,South,Bangalore,Uttarakhand,60,1000000,2024-06-24
+OUT5060,"Gokhale, Sagar and Issac",Modern Trade,Reliance Retail,North,Lucknow,Nagaland,60,100000,2025-07-10
+OUT5061,Bava PLC,General Trade,Kirana Store,West,Mumbai,Nagaland,45,250000,2026-04-21
+OUT5062,"Bhatt, Dora and Sankar",General Trade,Chemist,West,Pune,Haryana,0,250000,2025-07-27
+OUT5063,Seshadri-Baria,HoReCa,Hotels,West,Mumbai,Tamil Nadu,30,500000,2026-06-15
+OUT5064,"Dhillon, Madan and Tella",Modern Trade,D-Mart,North,Jaipur,Chhattisgarh,45,250000,2026-04-25
+OUT5065,"Bansal, Bassi and Venkataraman",Modern Trade,Reliance Retail,South,Kochi,Kerala,45,1000000,2023-08-12
+OUT5066,Handa and Sons,E-commerce,Blinkit,South,Kochi,Manipur,30,500000,2024-05-10
+OUT5067,Parmer PLC,General Trade,Provision Store,Central,Indore,Karnataka,45,1000000,2023-07-16
+OUT5068,"Setty, Kar and Aurora",Modern Trade,D-Mart,North,Jaipur,Odisha,15,50000,2024-02-24
+OUT5069,Som-Oommen,Modern Trade,Spencer,South,Bangalore,Madhya Pradesh,7,50000,2025-04-14
+OUT5070,Viswanathan-Mane,General Trade,Provision Store,Central,Indore,Gujarat,0,100000,2023-07-22
+OUT5071,Bera and Sons,General Trade,Provision Store,East,Kolkata,West Bengal,60,100000,2024-09-21
+OUT5072,Nagi-Raj,HoReCa,Restaurants,Central,Indore,Telangana,0,1000000,2025-06-01
+OUT5073,Arya-Mukhopadhyay,General Trade,Chemist,South,Chennai,Himachal Pradesh,0,50000,2025-07-15
+OUT5074,"Sood, Halder and Kannan",Modern Trade,Spencer,East,Guwahati,Andhra Pradesh,45,250000,2025-03-30
+OUT5075,Barad-Ravi,General Trade,Chemist,West,Surat,Uttar Pradesh,15,1000000,2024-07-27
+OUT5076,"Master, Balan and Kumar",General Trade,Kirana Store,West,Mumbai,Chhattisgarh,30,250000,2026-06-17
+OUT5077,Pillay Group,General Trade,Kirana Store,North,Jaipur,Nagaland,60,1000000,2024-01-15
+OUT5078,Hayre and Sons,General Trade,Chemist,North,Delhi,Tamil Nadu,7,500000,2024-09-22
+OUT5079,"Hegde, Wable and Pall",General Trade,Chemist,West,Pune,Arunachal Pradesh,45,500000,2025-08-07
+OUT5080,More-Buch,General Trade,Kirana Store,West,Surat,Manipur,15,500000,2026-02-25
+OUT5081,"Chauhan, Rajagopalan and Gade",General Trade,Supermarket,North,Lucknow,Tamil Nadu,30,500000,2024-08-04
+OUT5082,"Kala, Ram and Nigam",General Trade,Kirana Store,West,Surat,Karnataka,0,250000,2023-09-23
+OUT5083,Handa-Padmanabhan,General Trade,Provision Store,North,Delhi,Nagaland,60,1000000,2024-03-19
+OUT5084,"Patla, Bhatt and Mann",General Trade,Supermarket,North,Lucknow,Chhattisgarh,45,500000,2025-10-19
+OUT5085,Puri-Salvi,General Trade,Supermarket,North,Lucknow,Odisha,45,100000,2024-06-05
+OUT5086,"Kapoor, Arya and Basu",HoReCa,Caterers,West,Mumbai,Sikkim,0,1000000,2025-11-03
+OUT5087,Bala-Lal,E-commerce,JioMart,South,Bangalore,Meghalaya,45,500000,2023-12-22
+OUT5088,Prasad LLC,Modern Trade,More,North,Delhi,Gujarat,60,100000,2026-02-05
+OUT5089,"Ratta, Saini and Chacko",General Trade,Chemist,East,Bhubaneswar,Jharkhand,30,500000,2024-09-27
+OUT5090,Palla-Das,General Trade,Supermarket,Central,Indore,Meghalaya,7,1000000,2026-03-01
+OUT5091,Chad-Savant,General Trade,Kirana Store,South,Hyderabad,Tamil Nadu,30,250000,2024-07-17
+OUT5092,"Ramesh, Rama and Zachariah",HoReCa,Cafes,Central,Bhopal,Madhya Pradesh,15,250000,2024-06-11
+OUT5093,Goyal-Gade,Institutional,Canteens,Central,Bhopal,Tripura,30,1000000,2025-02-17
+OUT5094,Dara and Sons,General Trade,Provision Store,East,Bhubaneswar,Rajasthan,15,100000,2025-05-28
+OUT5095,Vasa-Keer,HoReCa,Caterers,South,Chennai,Himachal Pradesh,30,50000,2026-05-04
+OUT5096,Narang-Vohra,General Trade,Provision Store,West,Surat,Assam,60,100000,2025-12-26
+OUT5097,Parmar-Barad,General Trade,Supermarket,North,Lucknow,Haryana,0,500000,2023-12-25
+OUT5098,"Dora, Khatri and Dugar",Modern Trade,Reliance Retail,West,Pune,West Bengal,30,100000,2023-10-19
+OUT5099,Nagi Inc,Modern Trade,Big Bazaar,East,Guwahati,Jharkhand,60,500000,2024-09-20
+OUT5100,Rai-Jhaveri,General Trade,Provision Store,East,Bhubaneswar,Tamil Nadu,60,500000,2023-11-18
+OUT5101,"Seth, Sami and Madan",Institutional,Schools,North,Jaipur,Tamil Nadu,60,250000,2024-07-08
+OUT5102,"Hegde, Nori and Sangha",HoReCa,Caterers,North,Delhi,Tamil Nadu,60,50000,2026-06-10
+OUT5103,"Kashyap, Patla and Kari",General Trade,Kirana Store,East,Kolkata,Nagaland,15,50000,2025-12-13
+OUT5104,"Palan, Gulati and Batra",General Trade,Provision Store,East,Kolkata,Chhattisgarh,7,1000000,2023-10-09
+OUT5105,Thakkar LLC,General Trade,Supermarket,South,Chennai,Andhra Pradesh,0,1000000,2023-11-11
+OUT5106,Bhatt Ltd,Institutional,Offices,Central,Indore,Gujarat,45,100000,2025-01-10
+OUT5107,"Tailor, Bhasin and Bhasin",General Trade,Provision Store,East,Bhubaneswar,Madhya Pradesh,60,50000,2023-11-26
+OUT5108,"Chad, Sem and Master",Institutional,Hospitals,West,Pune,Gujarat,0,500000,2023-07-27
+OUT5109,Srinivas Ltd,HoReCa,Cafes,Central,Nagpur,Maharashtra,30,250000,2023-11-25
+OUT5110,Buch Ltd,General Trade,Supermarket,East,Bhubaneswar,Karnataka,30,50000,2024-08-13
+OUT5111,"Kara, Keer and Singh",General Trade,Chemist,Central,Nagpur,Goa,15,250000,2023-10-31
+OUT5112,Bhagat-Agarwal,Modern Trade,Big Bazaar,West,Mumbai,Gujarat,45,50000,2025-01-04
+OUT5113,Bhandari LLC,HoReCa,Cafes,West,Pune,Arunachal Pradesh,45,250000,2025-02-21
+OUT5114,Rattan-Pal,General Trade,Chemist,South,Chennai,Manipur,60,50000,2025-05-15
+OUT5115,Bera Group,HoReCa,Cafes,North,Chandigarh,Bihar,0,1000000,2025-06-05
+OUT5116,Yogi-Krishnan,General Trade,Kirana Store,South,Hyderabad,Tamil Nadu,15,500000,2025-02-02
+OUT5117,Jha-Hayre,Modern Trade,Spencer,South,Hyderabad,Uttar Pradesh,45,1000000,2025-08-04
+OUT5118,Buch Inc,HoReCa,Cafes,South,Kochi,Kerala,15,250000,2025-01-03
+OUT5119,Shetty-Sharaf,Institutional,Schools,West,Pune,Punjab,7,500000,2024-05-21
+OUT5120,Dutta-Bora,HoReCa,Cafes,Central,Bhopal,Bihar,30,50000,2026-01-20
+OUT5121,"Johal, Maharaj and Ram",General Trade,Provision Store,North,Lucknow,Madhya Pradesh,60,250000,2024-10-03
+OUT5122,Thakkar and Sons,General Trade,Kirana Store,East,Guwahati,Meghalaya,7,500000,2026-02-10
+OUT5123,"Chanda, Sekhon and Aurora",Modern Trade,Big Bazaar,Central,Nagpur,Assam,7,50000,2026-04-04
+OUT5124,Dar-Som,General Trade,Chemist,West,Surat,Madhya Pradesh,0,100000,2025-09-24
+OUT5125,Kapoor PLC,Modern Trade,Big Bazaar,North,Chandigarh,Jharkhand,0,50000,2023-12-08
+OUT5126,"Parmer, Lata and Brahmbhatt",General Trade,Supermarket,Central,Indore,Tamil Nadu,30,250000,2025-11-04
+OUT5127,"Dey, Rajagopal and Madan",General Trade,Provision Store,Central,Nagpur,Andhra Pradesh,60,100000,2025-08-02
+OUT5128,"Mital, Tailor and Sha",Institutional,Canteens,North,Chandigarh,Himachal Pradesh,15,50000,2026-06-17
+OUT5129,"Ravel, Barad and Ravi",General Trade,Provision Store,South,Kochi,Uttar Pradesh,7,250000,2024-04-07
+OUT5130,Palan and Sons,Modern Trade,Spencer,East,Guwahati,Assam,15,50000,2024-02-26
+OUT5131,"Narula, Narula and Vasa",General Trade,Kirana Store,South,Kochi,Tamil Nadu,0,100000,2024-01-16
+OUT5132,Varkey Inc,General Trade,Kirana Store,Central,Bhopal,Meghalaya,15,100000,2026-05-13
+OUT5133,"Oak, Sankar and Garde",HoReCa,Restaurants,Central,Bhopal,Tripura,45,100000,2023-09-16
+OUT5134,Badami Group,General Trade,Chemist,South,Chennai,Odisha,45,50000,2024-12-06
+OUT5135,"Krishnamurthy, Ratta and Bajaj",General Trade,Supermarket,South,Hyderabad,Odisha,7,50000,2025-07-13
+OUT5136,"Deep, Som and Pandya",General Trade,Supermarket,North,Delhi,Kerala,15,100000,2026-04-23
+OUT5137,Pillai PLC,General Trade,Supermarket,North,Lucknow,Gujarat,0,100000,2025-10-25
+OUT5138,Ray LLC,E-commerce,Amazon,Central,Nagpur,Chhattisgarh,0,500000,2024-07-24
+OUT5139,Gole and Sons,General Trade,Kirana Store,East,Bhubaneswar,Assam,45,100000,2026-05-15
+OUT5140,Nanda and Sons,HoReCa,Cafes,North,Chandigarh,Nagaland,60,50000,2025-05-30
+OUT5141,"Chopra, Buch and Ganesh",Modern Trade,More,West,Surat,Chhattisgarh,60,50000,2025-11-03
+OUT5142,Gaba-Sankaran,General Trade,Kirana Store,West,Mumbai,Himachal Pradesh,15,1000000,2023-11-10
+OUT5143,Pandey LLC,Modern Trade,Big Bazaar,South,Hyderabad,Telangana,30,1000000,2023-12-17
+OUT5144,Majumdar Ltd,General Trade,Provision Store,West,Mumbai,Assam,60,50000,2023-12-12
+OUT5145,"Kapur, Kashyap and Bose",Institutional,Offices,Central,Indore,Gujarat,30,100000,2023-11-02
+OUT5146,Aurora-Bumb,General Trade,Provision Store,West,Surat,Himachal Pradesh,60,50000,2026-03-10
+OUT5147,"Sahni, Din and Anne",General Trade,Chemist,East,Bhubaneswar,Sikkim,7,500000,2026-02-16
+OUT5148,Gulati-Bahl,Modern Trade,Reliance Retail,North,Chandigarh,Kerala,0,250000,2026-02-11
+OUT5149,"Thakur, Samra and Ganesan",Institutional,Schools,Central,Nagpur,West Bengal,45,1000000,2025-08-23
+OUT5150,"Palla, Kade and Solanki",General Trade,Provision Store,North,Lucknow,Tamil Nadu,60,500000,2024-12-03
+OUT5151,Dani-Mane,Institutional,Hospitals,North,Lucknow,Arunachal Pradesh,15,50000,2024-03-16
+OUT5152,"Mitra, Date and Agate",General Trade,Supermarket,South,Kochi,Karnataka,7,50000,2024-04-17
+OUT5153,Bali-Bala,General Trade,Chemist,Central,Bhopal,Manipur,15,1000000,2026-05-17
+OUT5154,Mander PLC,General Trade,Kirana Store,West,Ahmedabad,Nagaland,0,100000,2024-02-15
+OUT5155,Buch-Tata,General Trade,Chemist,East,Bhubaneswar,Jharkhand,0,100000,2024-08-17
+OUT5156,Bhasin Inc,Institutional,Canteens,Central,Bhopal,Karnataka,7,50000,2024-11-22
+OUT5157,"Ram, Mani and Ramesh",Modern Trade,D-Mart,Central,Indore,West Bengal,30,500000,2023-08-28
+OUT5158,"Sha, Sachdeva and Jayaraman",General Trade,Chemist,East,Guwahati,Jharkhand,15,1000000,2024-03-16
+OUT5159,Sen and Sons,General Trade,Supermarket,North,Jaipur,Tamil Nadu,45,50000,2024-05-20
+OUT5160,Sami-Chauhan,General Trade,Provision Store,East,Guwahati,Andhra Pradesh,30,500000,2026-01-03
+OUT5161,Rattan-Mukherjee,General Trade,Chemist,West,Pune,Kerala,45,50000,2024-09-08
+OUT5162,Sarraf PLC,General Trade,Chemist,North,Chandigarh,Karnataka,45,250000,2026-05-16
+OUT5163,Lalla Inc,Modern Trade,Spencer,West,Mumbai,Arunachal Pradesh,0,100000,2023-12-09
+OUT5164,"Joshi, Tara and Batta",General Trade,Supermarket,South,Hyderabad,Nagaland,15,250000,2024-09-25
+OUT5165,"Narayanan, Dugal and Basak",Modern Trade,More,West,Pune,West Bengal,7,500000,2024-01-09
+OUT5166,"Narasimhan, Parikh and Upadhyay",General Trade,Chemist,South,Bangalore,Tripura,30,50000,2024-05-20
+OUT5167,Pant-Bail,General Trade,Kirana Store,West,Ahmedabad,Gujarat,45,500000,2024-07-14
+OUT5168,Mutti PLC,General Trade,Chemist,West,Mumbai,Bihar,30,50000,2025-11-29
+OUT5169,Naik-Madan,HoReCa,Caterers,South,Hyderabad,Rajasthan,0,500000,2023-10-05
+OUT5170,"Nagarajan, Amble and Bakshi",Institutional,Canteens,South,Kochi,Andhra Pradesh,45,50000,2026-04-20
+OUT5171,Bose-Palan,General Trade,Chemist,East,Kolkata,Sikkim,15,100000,2025-08-02
+OUT5172,"Goda, Chaudhary and Comar",Modern Trade,Spencer,North,Jaipur,Madhya Pradesh,15,250000,2026-02-20
+OUT5173,"Nagar, Saraf and Bawa",E-commerce,Flipkart,South,Bangalore,West Bengal,7,250000,2025-10-12
+OUT5174,"Bhatti, Dhillon and Toor",Modern Trade,D-Mart,Central,Nagpur,Maharashtra,0,100000,2025-09-15
+OUT5175,Grover Ltd,HoReCa,Caterers,West,Surat,Madhya Pradesh,60,1000000,2026-04-05
+OUT5176,Sood PLC,General Trade,Chemist,Central,Nagpur,Arunachal Pradesh,15,100000,2023-09-18
+OUT5177,"Sidhu, Shah and Natarajan",General Trade,Provision Store,West,Ahmedabad,Nagaland,15,1000000,2024-12-02
+OUT5178,"Sant, Sur and Bala",Modern Trade,Reliance Retail,Central,Indore,Jharkhand,30,500000,2024-04-01
+OUT5179,Dasgupta-Sengupta,Modern Trade,Big Bazaar,East,Kolkata,Arunachal Pradesh,60,50000,2024-07-05
+OUT5180,"Shukla, Karpe and Mishra",General Trade,Provision Store,Central,Indore,Assam,45,1000000,2026-06-10
+OUT5181,Sanghvi PLC,HoReCa,Caterers,North,Jaipur,Andhra Pradesh,15,1000000,2024-05-18
+OUT5182,Kunda Inc,General Trade,Kirana Store,South,Kochi,West Bengal,0,250000,2024-02-14
+OUT5183,Chakraborty-Taneja,HoReCa,Restaurants,North,Delhi,Arunachal Pradesh,7,500000,2023-08-11
+OUT5184,Kaur Inc,HoReCa,Restaurants,Central,Indore,Uttarakhand,15,250000,2024-01-28
+OUT5185,Singhal Inc,General Trade,Kirana Store,East,Guwahati,Telangana,60,250000,2024-01-17
+OUT5186,"Chowdhury, Pant and Dave",Modern Trade,Spencer,North,Chandigarh,Himachal Pradesh,15,250000,2025-11-27
+OUT5187,Dugar-Badal,E-commerce,Flipkart,Central,Indore,Assam,0,1000000,2024-08-06
+OUT5188,"Dugal, Ahuja and Comar",General Trade,Chemist,East,Guwahati,Rajasthan,60,500000,2025-11-11
+OUT5189,Mammen Group,Modern Trade,Big Bazaar,North,Chandigarh,Meghalaya,60,250000,2024-10-27
+OUT5190,Bhat LLC,Institutional,Schools,Central,Nagpur,Haryana,60,500000,2026-01-15
+OUT5191,Pandya and Sons,General Trade,Chemist,North,Lucknow,Chhattisgarh,7,100000,2025-08-22
+OUT5192,Nagi-Tara,General Trade,Supermarket,West,Pune,Arunachal Pradesh,7,100000,2026-03-09
+OUT5193,Ganesan PLC,Modern Trade,Spencer,North,Delhi,Punjab,60,250000,2024-02-24
+OUT5194,"Dada, Mittal and Das",Institutional,Offices,Central,Nagpur,Andhra Pradesh,30,100000,2026-04-25
+OUT5195,Trivedi LLC,Modern Trade,D-Mart,Central,Nagpur,Jharkhand,30,50000,2024-02-20
+OUT5196,Gour Group,General Trade,Provision Store,South,Hyderabad,Mizoram,60,500000,2026-04-07
+OUT5197,Nayar-Tara,General Trade,Chemist,South,Kochi,Manipur,7,250000,2025-09-22
+OUT5198,Guha-Narayan,General Trade,Provision Store,Central,Indore,Kerala,15,500000,2024-02-01
+OUT5199,"Hans, Narain and Pandey",General Trade,Supermarket,West,Pune,Karnataka,45,100000,2025-02-05
+OUT5200,Sarma Ltd,Institutional,Canteens,North,Lucknow,Gujarat,45,50000,2025-12-17
+OUT5201,Cheema-Kala,E-commerce,Amazon,Central,Indore,Assam,0,100000,2025-11-01
+OUT5202,Ramachandran-Gokhale,General Trade,Supermarket,Central,Indore,Punjab,0,100000,2025-06-29
+OUT5203,"Acharya, Taneja and Goyal",Institutional,Schools,East,Bhubaneswar,Manipur,0,500000,2025-01-02
+OUT5204,Chawla Inc,General Trade,Provision Store,South,Bangalore,Himachal Pradesh,15,100000,2025-04-28
+OUT5205,Master PLC,Modern Trade,Big Bazaar,North,Jaipur,Kerala,7,50000,2025-04-25
+OUT5206,"Sha, Ghose and Edwin",General Trade,Supermarket,West,Surat,Punjab,30,1000000,2025-12-06
+OUT5207,"Manda, Mane and Char",Modern Trade,Reliance Retail,North,Lucknow,Sikkim,7,100000,2024-06-18
+OUT5208,"Tank, Chandra and Rau",General Trade,Provision Store,Central,Bhopal,Bihar,15,100000,2024-02-12
+OUT5209,Desai-Manda,General Trade,Supermarket,North,Chandigarh,Assam,60,1000000,2024-05-29
+OUT5210,Misra Group,General Trade,Provision Store,North,Delhi,Assam,60,1000000,2023-08-27
+OUT5211,"Balakrishnan, Swaminathan and Rajagopalan",General Trade,Chemist,South,Kochi,Punjab,0,1000000,2025-09-07
+OUT5212,"Sunder, Batra and Raju",General Trade,Provision Store,Central,Bhopal,Tripura,60,50000,2024-08-22
+OUT5213,Sharma-Sura,General Trade,Kirana Store,East,Guwahati,Telangana,45,1000000,2023-09-19
+OUT5214,Kalita LLC,E-commerce,Blinkit,Central,Bhopal,Andhra Pradesh,30,500000,2026-02-26
+OUT5215,Mutti Ltd,Modern Trade,Big Bazaar,West,Ahmedabad,Bihar,60,50000,2026-04-15
+OUT5216,Rajagopalan-Loyal,General Trade,Chemist,North,Jaipur,Tamil Nadu,60,50000,2025-04-05
+OUT5217,"Kadakia, Sura and Narain",E-commerce,Flipkart,East,Kolkata,West Bengal,15,1000000,2023-08-01
+OUT5218,Ratti-Som,General Trade,Provision Store,South,Kochi,Jharkhand,60,100000,2026-02-15
+OUT5219,Khurana and Sons,Institutional,Canteens,North,Delhi,Assam,15,100000,2023-09-08
+OUT5220,Ganesh Ltd,Modern Trade,Reliance Retail,South,Hyderabad,Assam,15,1000000,2024-11-04
+OUT5221,Badal PLC,General Trade,Provision Store,Central,Indore,Nagaland,0,100000,2025-04-20
+OUT5222,Srinivas-Sanghvi,General Trade,Chemist,North,Lucknow,Jharkhand,0,250000,2024-03-15
+OUT5223,Saini Inc,General Trade,Provision Store,West,Surat,Maharashtra,15,100000,2025-10-28
+OUT5224,Handa Inc,General Trade,Chemist,West,Ahmedabad,Punjab,0,500000,2025-06-06
+OUT5225,Lal-Dar,Modern Trade,D-Mart,Central,Nagpur,Uttar Pradesh,15,250000,2024-03-12
+OUT5226,"Parmer, De and Hayre",Modern Trade,Big Bazaar,East,Bhubaneswar,Punjab,30,1000000,2025-03-16
+OUT5227,Chander-Manda,E-commerce,BigBasket,South,Hyderabad,Himachal Pradesh,30,50000,2024-12-25
+OUT5228,Pradhan-Bajwa,E-commerce,Blinkit,East,Bhubaneswar,Andhra Pradesh,15,50000,2023-10-12
+OUT5229,"Gala, Sandal and Buch",Modern Trade,Big Bazaar,West,Pune,Goa,0,100000,2025-06-22
+OUT5230,Mohan-Padmanabhan,Institutional,Schools,West,Pune,Telangana,0,100000,2025-12-22
+OUT5231,"Ben, Chokshi and Wagle",E-commerce,JioMart,East,Bhubaneswar,Meghalaya,45,50000,2024-06-12
+OUT5232,"Mistry, Dave and Lal",General Trade,Chemist,West,Ahmedabad,Jharkhand,30,50000,2025-06-30
+OUT5233,Sagar-Mody,General Trade,Chemist,Central,Indore,Uttarakhand,15,250000,2025-08-22
+OUT5234,Natt and Sons,General Trade,Kirana Store,North,Jaipur,Gujarat,30,1000000,2024-09-29
+OUT5235,Khatri LLC,General Trade,Kirana Store,Central,Indore,Haryana,15,500000,2026-02-07
+OUT5236,Dhillon-Choudhary,General Trade,Chemist,Central,Nagpur,Telangana,30,100000,2023-07-12
+OUT5237,Dhillon Inc,Modern Trade,More,North,Jaipur,Chhattisgarh,60,500000,2024-06-26
+OUT5238,"Kota, Gulati and Wable",HoReCa,Cafes,East,Guwahati,Uttarakhand,0,1000000,2024-11-26
+OUT5239,Comar-Prabhu,General Trade,Supermarket,East,Guwahati,Karnataka,60,100000,2024-07-02
+OUT5240,"Khare, Krishnamurthy and Pandey",E-commerce,Flipkart,Central,Bhopal,Madhya Pradesh,7,100000,2025-10-28
+OUT5241,Seth-Patel,General Trade,Kirana Store,West,Ahmedabad,Assam,45,1000000,2025-03-24
+OUT5242,Walla Inc,General Trade,Supermarket,Central,Nagpur,Tripura,0,50000,2025-06-17
+OUT5243,Walia Ltd,General Trade,Provision Store,West,Surat,Sikkim,45,50000,2024-08-05
+OUT5244,Date-Sachdeva,Modern Trade,Reliance Retail,East,Bhubaneswar,Meghalaya,30,1000000,2024-11-13
+OUT5245,"Datta, Rastogi and Keer",General Trade,Supermarket,Central,Bhopal,Sikkim,30,1000000,2024-12-06
+OUT5246,"Oommen, Chakraborty and Shah",HoReCa,Hotels,North,Jaipur,Tripura,15,100000,2026-03-22
+OUT5247,Bandi and Sons,Modern Trade,Big Bazaar,South,Hyderabad,Manipur,0,250000,2024-02-09
+OUT5248,"Tandon, Kamdar and Menon",Modern Trade,Big Bazaar,Central,Bhopal,Karnataka,60,250000,2024-08-25
+OUT5249,"Srinivasan, Pathak and Saha",General Trade,Supermarket,North,Jaipur,Bihar,7,1000000,2024-06-29
+OUT5250,Seth-Biswas,E-commerce,JioMart,Central,Nagpur,Maharashtra,0,50000,2023-08-31
+OUT5251,Varghese PLC,Modern Trade,Big Bazaar,Central,Nagpur,Mizoram,7,1000000,2025-11-02
+OUT5252,Tiwari-Naidu,General Trade,Provision Store,North,Lucknow,Nagaland,60,250000,2024-02-17
+OUT5253,Banerjee LLC,General Trade,Chemist,West,Surat,Himachal Pradesh,0,50000,2023-12-16
+OUT5254,Sampath-Deol,Modern Trade,More,West,Surat,Andhra Pradesh,7,250000,2026-05-29
+OUT5255,Trivedi-Malhotra,General Trade,Chemist,East,Guwahati,Bihar,15,500000,2024-02-08
+OUT5256,Bhavsar Ltd,Modern Trade,Spencer,East,Guwahati,Andhra Pradesh,0,250000,2026-05-30
+OUT5257,"Iyer, Madan and Mukhopadhyay",General Trade,Chemist,North,Chandigarh,Meghalaya,7,100000,2024-12-20
+OUT5258,Agate-Sachdev,Modern Trade,More,East,Guwahati,Meghalaya,30,100000,2025-04-27
+OUT5259,Datta-Nanda,HoReCa,Cafes,South,Hyderabad,Himachal Pradesh,7,100000,2024-05-30
+OUT5260,"Saini, Dutt and Sastry",General Trade,Provision Store,Central,Indore,Andhra Pradesh,15,500000,2026-03-28
+OUT5261,Gera-Shanker,Modern Trade,Spencer,West,Surat,Assam,7,100000,2024-01-27
+OUT5262,"Kapoor, Venkataraman and Lata",General Trade,Kirana Store,North,Lucknow,Odisha,30,1000000,2026-05-11
+OUT5263,Sandhu-Dash,Institutional,Hospitals,West,Mumbai,Chhattisgarh,0,500000,2024-09-11
+OUT5264,"Sarma, Chaudhari and Sule",Modern Trade,Big Bazaar,East,Bhubaneswar,Kerala,15,50000,2023-10-03
+OUT5265,"Muni, Kapoor and Char",General Trade,Supermarket,Central,Indore,Karnataka,45,250000,2025-05-08
+OUT5266,Butala-Chadha,Modern Trade,More,Central,Nagpur,Arunachal Pradesh,15,1000000,2025-11-12
+OUT5267,Sastry-Kumer,General Trade,Supermarket,North,Delhi,Haryana,30,250000,2024-01-26
+OUT5268,Kohli-Venkataraman,E-commerce,Blinkit,East,Bhubaneswar,Odisha,7,100000,2026-05-09
+OUT5269,"Bal, Atwal and Manne",General Trade,Kirana Store,West,Mumbai,Haryana,0,100000,2025-06-20
+OUT5270,"Bains, Narayanan and Saha",E-commerce,Blinkit,West,Surat,Karnataka,7,1000000,2025-07-15
+OUT5271,"Bala, Mutti and Apte",Institutional,Hospitals,South,Hyderabad,Nagaland,7,500000,2025-04-20
+OUT5272,Nagi-Dora,HoReCa,Cafes,East,Guwahati,Andhra Pradesh,45,1000000,2026-02-06
+OUT5273,Ram LLC,General Trade,Chemist,Central,Indore,Himachal Pradesh,0,250000,2025-05-03
+OUT5274,Raja-Palla,General Trade,Provision Store,North,Lucknow,Haryana,60,50000,2023-08-31
+OUT5275,Chander Inc,General Trade,Supermarket,East,Guwahati,Punjab,0,1000000,2026-05-25
+OUT5276,Bhasin-Nori,General Trade,Provision Store,Central,Bhopal,Karnataka,60,100000,2025-05-24
+OUT5277,Behl-Mishra,Modern Trade,D-Mart,North,Delhi,Punjab,30,250000,2025-05-16
+OUT5278,Mallick-Mishra,General Trade,Supermarket,West,Surat,Jharkhand,45,1000000,2024-06-29
+OUT5279,"Saraf, Manne and Dayal",HoReCa,Restaurants,North,Jaipur,Punjab,45,250000,2025-07-04
+OUT5280,Brar Group,HoReCa,Caterers,West,Ahmedabad,Karnataka,7,500000,2025-12-21
+OUT5281,"Mishra, Hegde and Khatri",HoReCa,Cafes,East,Guwahati,Uttar Pradesh,60,250000,2023-08-11
+OUT5282,Dalal-Subramaniam,General Trade,Supermarket,South,Hyderabad,Manipur,45,250000,2026-03-19
+OUT5283,Chauhan-Chatterjee,General Trade,Chemist,East,Guwahati,Bihar,7,500000,2024-07-30
+OUT5284,Nayar-Taneja,General Trade,Chemist,East,Bhubaneswar,Jharkhand,0,1000000,2023-10-06
+OUT5285,Chadha-Karnik,General Trade,Provision Store,West,Ahmedabad,Uttar Pradesh,7,250000,2023-11-09
+OUT5286,Wali-Bir,Modern Trade,Big Bazaar,North,Chandigarh,Karnataka,60,250000,2025-10-27
+OUT5287,Krishnan LLC,E-commerce,Flipkart,South,Hyderabad,Jharkhand,45,250000,2026-03-20
+OUT5288,Narayanan-Raman,Modern Trade,Spencer,Central,Bhopal,Odisha,7,50000,2023-07-28
+OUT5289,Bhakta-Dalal,General Trade,Supermarket,Central,Nagpur,Andhra Pradesh,7,50000,2025-09-25
+OUT5290,Walia-Sood,Modern Trade,More,East,Kolkata,Goa,60,100000,2024-08-14
+OUT5291,Sankaran LLC,Modern Trade,D-Mart,Central,Indore,Goa,60,500000,2023-11-24
+OUT5292,Keer-Ben,General Trade,Chemist,South,Hyderabad,Odisha,15,50000,2025-08-29
+OUT5293,Basak Ltd,HoReCa,Restaurants,North,Delhi,Rajasthan,7,500000,2024-11-30
+OUT5294,Sengupta Group,Institutional,Schools,South,Kochi,Haryana,30,100000,2025-01-14
+OUT5295,Mand PLC,HoReCa,Hotels,East,Kolkata,Andhra Pradesh,15,1000000,2025-04-18
+OUT5296,"Thaman, Bali and Lad",General Trade,Chemist,East,Bhubaneswar,Goa,60,1000000,2024-01-18
+OUT5297,"Pant, Nanda and Saraf",General Trade,Provision Store,South,Hyderabad,Kerala,7,50000,2025-03-06
+OUT5298,Chokshi LLC,General Trade,Chemist,West,Pune,Odisha,0,250000,2024-10-20
+OUT5299,Saha-Hayer,E-commerce,Flipkart,Central,Bhopal,Punjab,45,500000,2025-10-18
+OUT5300,Prabhakar and Sons,Institutional,Hospitals,Central,Bhopal,Sikkim,30,50000,2025-08-21
+OUT5301,Sami-Rajan,Modern Trade,More,South,Hyderabad,Haryana,7,50000,2026-05-25
+OUT5302,"Prashad, Ratti and Gupta",General Trade,Provision Store,South,Hyderabad,Punjab,15,250000,2025-08-06
+OUT5303,"Chadha, Pillay and Virk",General Trade,Kirana Store,Central,Indore,Kerala,60,250000,2023-11-01
+OUT5304,"Saraf, Bajaj and Sodhi",General Trade,Kirana Store,North,Chandigarh,Manipur,15,100000,2024-02-02
+OUT5305,Bhatti-Dora,General Trade,Chemist,Central,Nagpur,Gujarat,0,250000,2023-12-22
+OUT5306,"Mitra, Thakur and Zacharia",General Trade,Supermarket,South,Chennai,Meghalaya,30,100000,2026-01-21
+OUT5307,Kala-Nigam,General Trade,Chemist,Central,Indore,West Bengal,60,1000000,2025-09-11
+OUT5308,"Barman, Toor and Deol",HoReCa,Restaurants,Central,Bhopal,Kerala,60,1000000,2026-02-22
+OUT5309,"Pingle, Mall and Vasa",Institutional,Canteens,North,Lucknow,Arunachal Pradesh,0,1000000,2025-10-12
+OUT5310,"Mander, Bhalla and Viswanathan",Modern Trade,Spencer,Central,Bhopal,Gujarat,45,1000000,2025-06-07
+OUT5311,"Shankar, Deshmukh and Naidu",Modern Trade,Spencer,East,Bhubaneswar,Sikkim,0,100000,2026-03-03
+OUT5312,"Contractor, Dalal and Krish",E-commerce,Amazon,West,Surat,Chhattisgarh,0,500000,2024-08-27
+OUT5313,Yogi PLC,Modern Trade,More,West,Mumbai,Telangana,45,500000,2023-07-22
+OUT5314,Atwal Inc,General Trade,Kirana Store,East,Bhubaneswar,Punjab,15,50000,2025-02-13
+OUT5315,Hans Group,E-commerce,Amazon,Central,Bhopal,Madhya Pradesh,30,250000,2024-01-16
+OUT5316,Gokhale-Shere,E-commerce,Amazon,Central,Bhopal,Manipur,30,50000,2025-06-19
+OUT5317,"Sarin, Mitter and Tripathi",General Trade,Supermarket,South,Kochi,Himachal Pradesh,15,500000,2025-09-03
+OUT5318,"Mangal, Karan and Viswanathan",General Trade,Provision Store,West,Mumbai,Haryana,60,1000000,2024-11-15
+OUT5319,Rai Ltd,Modern Trade,Reliance Retail,East,Kolkata,Karnataka,45,500000,2025-12-07
+OUT5320,"Tak, Kota and Iyengar",General Trade,Kirana Store,South,Bangalore,Kerala,15,500000,2024-05-02
+OUT5321,"Rana, Swamy and Bala",General Trade,Provision Store,Central,Nagpur,Goa,30,100000,2025-04-10
+OUT5322,"Saraf, Pillay and Arya",General Trade,Supermarket,East,Bhubaneswar,Uttar Pradesh,7,50000,2024-12-05
+OUT5323,Raj-Manda,Modern Trade,Spencer,West,Mumbai,Gujarat,7,100000,2024-12-19
+OUT5324,"Seshadri, Nath and Parmer",Modern Trade,Reliance Retail,Central,Indore,Bihar,45,50000,2026-04-27
+OUT5325,Narain-Vig,General Trade,Provision Store,North,Chandigarh,Gujarat,7,1000000,2025-07-23
+OUT5326,"Srinivas, Mishra and Sandhu",General Trade,Supermarket,North,Lucknow,Kerala,7,1000000,2024-08-15
+OUT5327,Bhatia-Mody,General Trade,Chemist,Central,Bhopal,Telangana,15,100000,2024-08-27
+OUT5328,Dara and Sons,HoReCa,Restaurants,Central,Indore,Telangana,15,250000,2025-09-24
+OUT5329,Date-Mahal,Modern Trade,D-Mart,Central,Nagpur,Odisha,60,500000,2026-04-12
+OUT5330,"Soni, Bhatt and Murty",General Trade,Chemist,North,Chandigarh,Chhattisgarh,45,250000,2026-06-06
+OUT5331,Krish Inc,General Trade,Supermarket,West,Ahmedabad,Haryana,30,100000,2025-04-25
+OUT5332,"Buch, Desai and Mannan",E-commerce,Flipkart,West,Pune,Nagaland,15,100000,2024-07-27
+OUT5333,Narasimhan-Sankar,Institutional,Canteens,North,Chandigarh,Goa,45,1000000,2024-11-24
+OUT5334,Kari-Sem,Modern Trade,Big Bazaar,South,Chennai,Uttarakhand,15,50000,2024-06-18
+OUT5335,Sangha-Mitra,HoReCa,Hotels,East,Guwahati,Gujarat,60,100000,2026-03-26
+OUT5336,"Memon, Samra and Saha",Modern Trade,Spencer,West,Mumbai,Goa,0,100000,2024-02-10
+OUT5337,"Dubey, Venkataraman and Arya",Institutional,Offices,Central,Indore,Chhattisgarh,7,250000,2023-07-16
+OUT5338,"Khatri, Vaidya and Dugal",General Trade,Supermarket,North,Jaipur,Uttarakhand,60,50000,2023-09-20
+OUT5339,"Natt, Wagle and Johal",E-commerce,Flipkart,West,Pune,Chhattisgarh,30,100000,2025-08-24
+OUT5340,"Kanda, Rege and Sachar",General Trade,Provision Store,East,Bhubaneswar,Goa,45,250000,2026-04-21
+OUT5341,"Radhakrishnan, Choudhry and Nath",General Trade,Provision Store,East,Bhubaneswar,Manipur,0,500000,2024-12-31
+OUT5342,"Raval, Sachdev and Narain",E-commerce,Flipkart,East,Bhubaneswar,Tamil Nadu,15,500000,2024-01-17
+OUT5343,"Gola, Grover and Oak",Modern Trade,D-Mart,South,Bangalore,Haryana,15,1000000,2026-05-10
+OUT5344,"Pant, Subramanian and Deshpande",HoReCa,Caterers,Central,Indore,Chhattisgarh,7,100000,2025-12-12
+OUT5345,Mital-Kulkarni,General Trade,Supermarket,West,Surat,Karnataka,45,250000,2025-08-28
+OUT5346,Gokhale and Sons,General Trade,Provision Store,West,Surat,Karnataka,7,250000,2023-07-11
+OUT5347,Minhas and Sons,Modern Trade,More,Central,Bhopal,Uttar Pradesh,45,50000,2025-11-16
+OUT5348,"Natarajan, Saran and Bali",General Trade,Kirana Store,North,Delhi,Tripura,30,100000,2025-05-29
+OUT5349,Thaman-Sridhar,Institutional,Schools,South,Chennai,Assam,0,100000,2023-07-13
+OUT5350,"Saini, Dutt and Yadav",General Trade,Kirana Store,East,Guwahati,Nagaland,60,1000000,2024-03-27
+OUT5351,"Andra, Lalla and Chanda",HoReCa,Hotels,West,Mumbai,Manipur,45,1000000,2024-06-07
+OUT5352,Vaidya PLC,General Trade,Chemist,North,Lucknow,Gujarat,0,1000000,2024-05-21
+OUT5353,Narang-Ranganathan,Institutional,Offices,West,Mumbai,Telangana,0,1000000,2025-12-19
+OUT5354,"Sunder, Srivastava and Kamdar",Modern Trade,Spencer,South,Hyderabad,Uttarakhand,15,250000,2024-09-29
+OUT5355,Mand Group,E-commerce,JioMart,North,Chandigarh,Uttarakhand,30,1000000,2024-05-01
+OUT5356,"Iyengar, Dixit and Nori",General Trade,Chemist,South,Bangalore,West Bengal,60,50000,2025-05-29
+OUT5357,"Pant, Bora and Khurana",Modern Trade,More,West,Surat,Madhya Pradesh,0,50000,2023-08-19
+OUT5358,Vasa Inc,E-commerce,BigBasket,North,Chandigarh,Himachal Pradesh,60,250000,2024-11-24
+OUT5359,"Sood, Soni and Chatterjee",General Trade,Kirana Store,North,Jaipur,Odisha,7,1000000,2024-10-17
+OUT5360,"Ramesh, Ranganathan and Ramanathan",General Trade,Kirana Store,North,Lucknow,Uttar Pradesh,45,1000000,2023-12-13
+OUT5361,Andra Group,General Trade,Chemist,South,Bangalore,Chhattisgarh,7,1000000,2025-12-08
+OUT5362,"Sachdeva, Dass and Sarkar",Modern Trade,Reliance Retail,West,Ahmedabad,Mizoram,7,1000000,2024-05-19
+OUT5363,Guha and Sons,General Trade,Chemist,West,Surat,Tamil Nadu,60,100000,2024-12-23
+OUT5364,"Buch, Natarajan and Kumar",E-commerce,Blinkit,North,Lucknow,Kerala,0,50000,2024-12-19
+OUT5365,Varkey-Anand,General Trade,Chemist,North,Chandigarh,Punjab,15,50000,2023-10-09
+OUT5366,Lal-Venkatesh,General Trade,Provision Store,West,Pune,Goa,15,1000000,2023-07-18
+OUT5367,Dash Group,HoReCa,Restaurants,West,Surat,Haryana,0,1000000,2023-08-04
+OUT5368,"Kuruvilla, Dutta and Sha",General Trade,Kirana Store,South,Bangalore,Tripura,15,100000,2025-07-29
+OUT5369,Chakrabarti Ltd,General Trade,Provision Store,South,Hyderabad,Assam,15,50000,2026-01-28
+OUT5370,"Kapoor, Jaggi and Agarwal",Modern Trade,More,East,Bhubaneswar,Himachal Pradesh,15,50000,2024-05-29
+OUT5371,Keer and Sons,Modern Trade,More,South,Kochi,Arunachal Pradesh,45,1000000,2024-03-12
+OUT5372,Khalsa-Murty,General Trade,Kirana Store,North,Delhi,Uttarakhand,15,1000000,2024-08-06
+OUT5373,Srivastava Inc,Modern Trade,Big Bazaar,Central,Indore,Uttarakhand,0,250000,2023-11-19
+OUT5374,Sodhi PLC,General Trade,Supermarket,North,Jaipur,Chhattisgarh,60,500000,2025-01-19
+OUT5375,Mann Inc,Modern Trade,Big Bazaar,East,Bhubaneswar,Mizoram,30,100000,2023-08-04
+OUT5376,"Ramachandran, Bera and Basu",Modern Trade,Big Bazaar,West,Surat,Jharkhand,15,500000,2026-02-09
+OUT5377,"Vala, Misra and Walla",E-commerce,JioMart,East,Kolkata,Punjab,60,500000,2026-01-17
+OUT5378,Suresh-Sen,General Trade,Provision Store,South,Bangalore,Haryana,7,250000,2023-07-24
+OUT5379,Narayanan-Morar,Modern Trade,Big Bazaar,West,Surat,Maharashtra,15,500000,2023-12-03
+OUT5380,"Swaminathan, Ben and Kapadia",General Trade,Supermarket,Central,Indore,Sikkim,15,1000000,2024-10-24
+OUT5381,Rana PLC,HoReCa,Caterers,South,Hyderabad,West Bengal,7,500000,2025-04-01
+OUT5382,Ramesh PLC,HoReCa,Caterers,East,Guwahati,Himachal Pradesh,7,250000,2025-06-14
+OUT5383,D’Alia-Ganesh,General Trade,Chemist,West,Mumbai,Bihar,45,100000,2025-12-23
+OUT5384,Mann LLC,General Trade,Supermarket,Central,Nagpur,Tripura,45,50000,2025-12-18
+OUT5385,Mallick-Chowdhury,HoReCa,Restaurants,West,Surat,Gujarat,15,50000,2026-05-04
+OUT5386,Aurora-Mitter,Institutional,Canteens,West,Pune,Bihar,60,250000,2025-08-13
+OUT5387,Pai-Chana,General Trade,Provision Store,South,Kochi,Karnataka,0,500000,2023-10-22
+OUT5388,Dey Ltd,HoReCa,Caterers,West,Surat,Sikkim,45,50000,2025-05-20
+OUT5389,"Guha, Kala and Dash",E-commerce,Blinkit,East,Guwahati,Kerala,60,50000,2025-03-13
+OUT5390,"Choudhary, Anand and Sanghvi",Modern Trade,Big Bazaar,South,Chennai,Tamil Nadu,60,1000000,2025-04-06
+OUT5391,Verma Ltd,Modern Trade,Big Bazaar,West,Surat,Arunachal Pradesh,0,50000,2025-07-17
+OUT5392,"Kurian, Gupta and Rattan",Modern Trade,Spencer,South,Chennai,Rajasthan,30,250000,2025-10-06
+OUT5393,"Oak, Nagy and Bobal",General Trade,Supermarket,Central,Indore,Arunachal Pradesh,0,500000,2026-05-19
+OUT5394,Kulkarni-Comar,Modern Trade,Reliance Retail,West,Mumbai,Meghalaya,60,100000,2023-12-19
+OUT5395,Karnik PLC,General Trade,Provision Store,East,Kolkata,Chhattisgarh,45,500000,2023-09-12
+OUT5396,"Madan, Bhattacharyya and Talwar",General Trade,Provision Store,North,Chandigarh,Haryana,15,50000,2024-03-07
+OUT5397,"Sethi, Savant and Tak",General Trade,Kirana Store,North,Lucknow,Bihar,60,50000,2023-08-05
+OUT5398,Mand-Chatterjee,General Trade,Supermarket,South,Chennai,Meghalaya,45,100000,2024-05-26
+OUT5399,"Garg, Kalita and Sandhu",General Trade,Provision Store,West,Pune,West Bengal,30,100000,2025-10-31
+OUT5400,Vyas-Gole,Modern Trade,More,West,Mumbai,Punjab,60,1000000,2026-04-26
+OUT5401,"Kala, Ranganathan and Pillai",Institutional,Canteens,West,Surat,Meghalaya,0,100000,2024-07-13
+OUT5402,"Loke, Shankar and Shan",General Trade,Kirana Store,North,Jaipur,Tripura,15,250000,2024-05-12
+OUT5403,Murty PLC,Modern Trade,Big Bazaar,North,Chandigarh,Jharkhand,45,250000,2024-06-29
+OUT5404,Yadav PLC,General Trade,Provision Store,Central,Nagpur,Nagaland,0,250000,2026-01-12
+OUT5405,Kibe-Buch,General Trade,Supermarket,West,Ahmedabad,Goa,45,1000000,2026-01-08
+OUT5406,"Rattan, Mand and Kakar",Modern Trade,Big Bazaar,South,Bangalore,Uttar Pradesh,7,250000,2024-06-12
+OUT5407,"Acharya, Lalla and Luthra",Modern Trade,D-Mart,East,Guwahati,Rajasthan,30,500000,2023-12-22
+OUT5408,"Tara, Saha and D’Alia",General Trade,Provision Store,Central,Indore,Rajasthan,7,500000,2023-08-29
+OUT5409,Raghavan LLC,General Trade,Supermarket,South,Kochi,Odisha,15,100000,2025-02-08
+OUT5410,Tella and Sons,Modern Trade,Spencer,West,Mumbai,Gujarat,15,50000,2023-08-07
+OUT5411,Chaudhari-Pandya,General Trade,Provision Store,South,Kochi,Gujarat,30,500000,2025-04-06
+OUT5412,Boase and Sons,General Trade,Provision Store,West,Pune,Odisha,0,1000000,2024-03-17
+OUT5413,Vora-Sura,Modern Trade,Big Bazaar,South,Bangalore,Kerala,15,100000,2023-07-30
+OUT5414,"Bhakta, Agarwal and Rai",General Trade,Provision Store,South,Kochi,Meghalaya,45,1000000,2026-04-09
+OUT5415,Dutta-Bala,Modern Trade,Big Bazaar,North,Lucknow,Kerala,45,50000,2024-11-05
+OUT5416,Sankar Group,E-commerce,Blinkit,West,Pune,Gujarat,30,50000,2025-02-01
+OUT5417,Hans-Saha,E-commerce,JioMart,South,Bangalore,Uttar Pradesh,30,250000,2025-02-13
+OUT5418,Malhotra-Acharya,General Trade,Provision Store,North,Delhi,Uttarakhand,7,100000,2023-10-05
+OUT5419,Karpe Ltd,Institutional,Hospitals,Central,Nagpur,Meghalaya,45,500000,2024-06-01
+OUT5420,"Gole, Khanna and Pingle",Modern Trade,D-Mart,South,Chennai,Manipur,0,1000000,2025-08-01
+OUT5421,"Merchant, Mohanty and Mangal",General Trade,Supermarket,East,Bhubaneswar,Uttarakhand,60,250000,2023-07-10
+OUT5422,Srivastava-Dora,General Trade,Kirana Store,East,Kolkata,West Bengal,30,50000,2023-10-22
+OUT5423,Zacharia Ltd,HoReCa,Restaurants,South,Chennai,Sikkim,7,250000,2024-02-02
+OUT5424,"Barad, Madan and Kulkarni",Institutional,Canteens,West,Pune,Uttar Pradesh,45,250000,2025-07-18
+OUT5425,Sarma-Iyer,General Trade,Provision Store,West,Mumbai,Manipur,60,50000,2025-11-08
+OUT5426,Sabharwal LLC,General Trade,Chemist,East,Bhubaneswar,Madhya Pradesh,30,250000,2025-10-14
+OUT5427,Barad-Sani,General Trade,Provision Store,North,Lucknow,Rajasthan,0,1000000,2025-06-02
+OUT5428,Balay-Chaudry,General Trade,Supermarket,West,Surat,Goa,15,250000,2025-10-14
+OUT5429,Nagy-Rattan,Institutional,Offices,East,Guwahati,Meghalaya,30,250000,2026-02-08
+OUT5430,Barad Group,Institutional,Schools,North,Delhi,Odisha,60,500000,2025-06-01
+OUT5431,Gupta-Chaudhary,Modern Trade,More,South,Kochi,Maharashtra,0,500000,2026-05-15
+OUT5432,Maharaj-Sabharwal,General Trade,Chemist,South,Chennai,Himachal Pradesh,15,50000,2024-07-28
+OUT5433,Goyal-Rajagopalan,General Trade,Kirana Store,East,Bhubaneswar,Telangana,60,100000,2025-01-23
+OUT5434,Thakkar-Raghavan,Modern Trade,D-Mart,East,Bhubaneswar,Punjab,60,50000,2024-04-13
+OUT5435,Kata-Sem,E-commerce,Flipkart,North,Chandigarh,Jharkhand,0,100000,2025-09-08
+OUT5436,Ratti-Nazareth,General Trade,Provision Store,Central,Bhopal,Goa,0,250000,2024-03-01
+OUT5437,"Sethi, Wali and Date",Institutional,Offices,West,Surat,Tripura,0,100000,2024-04-14
+OUT5438,"Dara, Biswas and Parsa",General Trade,Kirana Store,North,Lucknow,Tamil Nadu,15,250000,2024-08-07
+OUT5439,"Modi, Issac and Bhatti",Modern Trade,D-Mart,South,Bangalore,Karnataka,45,1000000,2024-01-09
+OUT5440,"Bumb, Chakrabarti and Swaminathan",Modern Trade,More,South,Hyderabad,Rajasthan,60,100000,2025-01-24
+OUT5441,Verma-Pandya,General Trade,Provision Store,South,Kochi,Haryana,7,50000,2024-11-21
+OUT5442,"Tata, Jayaraman and Gole",Institutional,Schools,South,Kochi,Chhattisgarh,15,500000,2023-10-26
+OUT5443,"Shankar, Ramakrishnan and Kata",General Trade,Supermarket,South,Hyderabad,Himachal Pradesh,60,50000,2024-02-05
+OUT5444,Lanka-Dutta,General Trade,Chemist,Central,Nagpur,Andhra Pradesh,0,250000,2024-12-24
+OUT5445,Rajagopalan Ltd,General Trade,Supermarket,Central,Nagpur,Uttar Pradesh,30,250000,2023-08-07
+OUT5446,Din Inc,General Trade,Provision Store,South,Kochi,Goa,0,100000,2023-10-27
+OUT5447,Varghese Ltd,General Trade,Kirana Store,Central,Nagpur,Gujarat,0,250000,2023-08-31
+OUT5448,Chokshi PLC,HoReCa,Caterers,South,Kochi,Mizoram,15,1000000,2024-06-29
+OUT5449,Murty-Handa,General Trade,Kirana Store,West,Mumbai,Madhya Pradesh,45,50000,2024-05-31
+OUT5450,Dhawan-Chakrabarti,Modern Trade,Reliance Retail,South,Bangalore,Nagaland,30,1000000,2025-04-01
+OUT5451,Agrawal-Raj,General Trade,Provision Store,Central,Indore,Karnataka,60,500000,2026-04-24
+OUT5452,Keer Inc,Modern Trade,Spencer,Central,Nagpur,Mizoram,7,250000,2024-10-16
+OUT5453,"Kala, Behl and Bahri",Modern Trade,Spencer,North,Jaipur,West Bengal,7,1000000,2024-09-29
+OUT5454,Handa Group,General Trade,Kirana Store,Central,Indore,Tripura,60,500000,2025-05-12
+OUT5455,Behl and Sons,E-commerce,Amazon,South,Chennai,Jharkhand,0,500000,2025-10-20
+OUT5456,Boase-Chawla,Modern Trade,Spencer,Central,Bhopal,Nagaland,15,100000,2025-11-06
+OUT5457,Tailor PLC,Modern Trade,Reliance Retail,South,Chennai,Punjab,30,250000,2023-09-18
+OUT5458,Borra Inc,General Trade,Supermarket,East,Bhubaneswar,Maharashtra,7,250000,2024-02-09
+OUT5459,Vala-Acharya,E-commerce,Amazon,North,Lucknow,Mizoram,30,250000,2023-10-22
+OUT5460,Goyal-Dube,General Trade,Kirana Store,East,Bhubaneswar,Mizoram,30,1000000,2026-06-05
+OUT5461,"Deshmukh, Wali and Sangha",General Trade,Supermarket,West,Ahmedabad,Manipur,7,250000,2026-06-09
+OUT5462,"Atwal, Nazareth and Gade",E-commerce,Amazon,Central,Bhopal,Maharashtra,60,1000000,2023-12-04
+OUT5463,Reddy-Jha,Modern Trade,D-Mart,North,Delhi,Maharashtra,30,250000,2023-08-09
+OUT5464,"Sem, Badami and Arya",General Trade,Supermarket,South,Bangalore,Punjab,45,500000,2024-04-15
+OUT5465,Prasad-Dua,General Trade,Provision Store,South,Hyderabad,Arunachal Pradesh,15,50000,2024-01-25
+OUT5466,Chanda LLC,General Trade,Kirana Store,North,Jaipur,Mizoram,7,1000000,2025-08-02
+OUT5467,Sama-Anne,HoReCa,Hotels,West,Surat,Nagaland,15,250000,2025-02-01
+OUT5468,"Bobal, Borah and Dhillon",General Trade,Provision Store,Central,Bhopal,Karnataka,15,100000,2024-04-15
+OUT5469,Amble-Bava,General Trade,Supermarket,East,Bhubaneswar,Arunachal Pradesh,15,1000000,2024-10-02
+OUT5470,Konda-Morar,HoReCa,Restaurants,South,Chennai,Arunachal Pradesh,0,500000,2024-05-18
+OUT5471,Kuruvilla-Parmar,Modern Trade,Big Bazaar,Central,Nagpur,Chhattisgarh,60,50000,2024-01-16
+OUT5472,Shenoy PLC,HoReCa,Caterers,North,Lucknow,Uttar Pradesh,0,100000,2023-11-05
+OUT5473,"Dara, Chand and Narang",General Trade,Provision Store,South,Kochi,Sikkim,0,100000,2025-08-02
+OUT5474,"Babu, Gala and Desai",E-commerce,Amazon,North,Jaipur,Andhra Pradesh,45,500000,2025-02-06
+OUT5475,"Keer, Hayer and Chadha",E-commerce,BigBasket,East,Guwahati,Mizoram,0,1000000,2024-10-27
+OUT5476,"Pillai, Mammen and Palan",Modern Trade,More,South,Bangalore,Maharashtra,45,1000000,2026-05-09
+OUT5477,Parmar-Saraf,Modern Trade,D-Mart,South,Hyderabad,Tripura,15,250000,2026-04-10
+OUT5478,Dara-Bains,HoReCa,Cafes,West,Ahmedabad,Madhya Pradesh,30,250000,2024-10-03
+OUT5479,"Nagi, Soman and Som",General Trade,Supermarket,South,Bangalore,Punjab,7,50000,2025-06-02
+OUT5480,"Murthy, Ramesh and Doctor",Modern Trade,Big Bazaar,West,Surat,Goa,0,1000000,2023-10-18
+OUT5481,Minhas-Mukherjee,General Trade,Provision Store,South,Hyderabad,Maharashtra,30,250000,2025-12-12
+OUT5482,"Verma, Patel and Sekhon",Institutional,Offices,North,Lucknow,Sikkim,60,1000000,2026-03-02
+OUT5483,Arya PLC,Modern Trade,D-Mart,East,Kolkata,Mizoram,60,100000,2025-01-10
+OUT5484,"Som, Chacko and Venkataraman",HoReCa,Hotels,West,Ahmedabad,West Bengal,15,100000,2025-07-17
+OUT5485,Sama-Sehgal,Modern Trade,More,West,Pune,Assam,0,500000,2023-08-06
+OUT5486,"Mand, Sandhu and Batta",Modern Trade,Reliance Retail,South,Bangalore,Maharashtra,0,100000,2024-10-14
+OUT5487,Hayer LLC,Modern Trade,Big Bazaar,West,Mumbai,Haryana,45,1000000,2023-10-04
+OUT5488,Parikh LLC,General Trade,Kirana Store,North,Delhi,Gujarat,7,500000,2023-12-20
+OUT5489,Handa-Nadkarni,Institutional,Hospitals,North,Delhi,Andhra Pradesh,0,500000,2026-04-25
+OUT5490,"Dyal, Nanda and Gole",Modern Trade,More,Central,Nagpur,Sikkim,30,500000,2025-01-02
+OUT5491,More-Pandit,Modern Trade,D-Mart,West,Ahmedabad,Jharkhand,7,100000,2023-11-17
+OUT5492,Sur-Basak,General Trade,Supermarket,West,Mumbai,Himachal Pradesh,45,1000000,2025-11-19
+OUT5493,"Khosla, Khosla and Murty",General Trade,Provision Store,East,Bhubaneswar,Odisha,45,500000,2026-02-18
+OUT5494,Ghose-Reddy,Modern Trade,More,East,Kolkata,Kerala,30,100000,2024-09-30
+OUT5495,"Rajagopalan, Lata and Mann",General Trade,Supermarket,Central,Nagpur,Mizoram,45,50000,2026-03-23
+OUT5496,Bhargava-Tailor,HoReCa,Caterers,East,Guwahati,Andhra Pradesh,30,250000,2024-02-24
+OUT5497,Apte PLC,HoReCa,Cafes,Central,Indore,Manipur,15,100000,2024-06-16
+OUT5498,Kakar LLC,Modern Trade,D-Mart,Central,Bhopal,Maharashtra,15,50000,2026-03-27
+OUT5499,Rana PLC,Institutional,Hospitals,West,Pune,Madhya Pradesh,7,50000,2025-11-09
+OUT5500,"Parmer, Bhardwaj and Nadig",General Trade,Chemist,South,Bangalore,Manipur,7,1000000,2025-08-19
+OUT5501,Dyal Ltd,Institutional,Hospitals,West,Pune,Tripura,7,100000,2024-04-29
+OUT5502,Shukla LLC,General Trade,Kirana Store,East,Guwahati,Arunachal Pradesh,60,250000,2024-07-02
+OUT5503,Khare-Bhat,HoReCa,Restaurants,Central,Nagpur,Tripura,7,500000,2023-09-24
+OUT5504,Chaudhry Inc,General Trade,Provision Store,South,Bangalore,Telangana,0,50000,2025-08-09
+OUT5505,Tailor LLC,General Trade,Kirana Store,South,Kochi,Tripura,0,250000,2025-06-29
+OUT5506,Kant Inc,HoReCa,Restaurants,South,Hyderabad,Jharkhand,60,100000,2026-01-28
+OUT5507,"Sharaf, Dada and Kibe",HoReCa,Hotels,East,Kolkata,Telangana,7,1000000,2023-09-17
+OUT5508,Dalal Inc,E-commerce,Amazon,South,Hyderabad,Andhra Pradesh,0,250000,2026-06-03
+OUT5509,Dyal Inc,E-commerce,Blinkit,West,Mumbai,Uttarakhand,15,250000,2023-10-23
+OUT5510,"Shetty, Chana and Nori",General Trade,Provision Store,South,Kochi,Himachal Pradesh,60,250000,2023-06-27
+OUT5511,"Dar, Balan and Deol",Modern Trade,Spencer,Central,Indore,Manipur,7,1000000,2023-12-18
+OUT5512,"Hora, Brahmbhatt and Pai",Institutional,Hospitals,West,Ahmedabad,Gujarat,7,100000,2025-07-06
+OUT5513,"Shroff, Nanda and Rajan",E-commerce,BigBasket,Central,Nagpur,Andhra Pradesh,0,100000,2024-06-25
+OUT5514,"Borah, Chakrabarti and Bali",General Trade,Supermarket,Central,Nagpur,Meghalaya,45,50000,2023-10-20
+OUT5515,Rana Inc,HoReCa,Cafes,South,Bangalore,Meghalaya,7,250000,2024-09-13
+OUT5516,"Mitra, Sharma and Purohit",HoReCa,Hotels,South,Hyderabad,Mizoram,30,50000,2024-01-09
+OUT5517,Apte and Sons,General Trade,Kirana Store,South,Hyderabad,Uttarakhand,15,50000,2025-10-01
+OUT5518,Sinha-Borra,E-commerce,BigBasket,North,Chandigarh,West Bengal,60,500000,2025-08-02
+OUT5519,"Bobal, Sunder and Choudhry",HoReCa,Caterers,West,Surat,Himachal Pradesh,15,1000000,2024-07-23
+OUT5520,Bahl-Prabhakar,General Trade,Supermarket,West,Pune,Rajasthan,30,50000,2025-08-12
+OUT5521,"Roy, Seth and Shah",E-commerce,JioMart,North,Delhi,Andhra Pradesh,15,250000,2024-03-18
+OUT5522,Naik-Rastogi,HoReCa,Cafes,North,Jaipur,Andhra Pradesh,30,100000,2024-04-13
+OUT5523,"Prashad, Dalal and Narula",E-commerce,Amazon,Central,Indore,Kerala,45,1000000,2024-05-15
+OUT5524,Chakrabarti-Mital,Institutional,Canteens,North,Jaipur,Jharkhand,45,500000,2023-10-14
+OUT5525,Salvi-Randhawa,Modern Trade,Big Bazaar,North,Jaipur,Uttar Pradesh,7,500000,2025-01-14
+OUT5526,Kunda Ltd,General Trade,Chemist,Central,Nagpur,Assam,15,250000,2025-10-03
+OUT5527,Talwar Inc,General Trade,Provision Store,North,Chandigarh,Nagaland,7,50000,2024-11-07
+OUT5528,Ray-Krish,General Trade,Kirana Store,West,Ahmedabad,Punjab,60,1000000,2024-11-18
+OUT5529,Mangat-Trivedi,General Trade,Kirana Store,North,Jaipur,Punjab,7,250000,2026-01-02
+OUT5530,Bajaj-Gala,HoReCa,Hotels,West,Ahmedabad,Maharashtra,30,500000,2024-02-08
+OUT5531,"Dube, Kapadia and Koshy",General Trade,Kirana Store,East,Guwahati,Madhya Pradesh,45,500000,2026-05-25
+OUT5532,Srivastava-Shankar,Modern Trade,Big Bazaar,West,Pune,Arunachal Pradesh,30,50000,2024-11-05
+OUT5533,Mittal Group,General Trade,Chemist,West,Pune,Goa,15,1000000,2023-07-25
+OUT5534,Ravel-Dube,Modern Trade,Reliance Retail,North,Lucknow,West Bengal,45,500000,2024-02-08
+OUT5535,Minhas and Sons,HoReCa,Restaurants,Central,Nagpur,Manipur,0,500000,2025-07-05
+OUT5536,Sachdev LLC,Institutional,Canteens,West,Pune,Odisha,30,250000,2024-08-04
+OUT5537,"Saha, Joshi and Varkey",Modern Trade,Spencer,North,Jaipur,Bihar,0,500000,2025-06-20
+OUT5538,Chaudry-Bera,Modern Trade,D-Mart,South,Chennai,Punjab,7,50000,2024-05-12
+OUT5539,Handa-Gera,General Trade,Supermarket,West,Pune,Meghalaya,45,250000,2025-05-03
+OUT5540,Ghosh Ltd,General Trade,Kirana Store,North,Chandigarh,Andhra Pradesh,45,500000,2025-05-11
+OUT5541,"Mahajan, Mani and Nazareth",General Trade,Provision Store,East,Kolkata,Rajasthan,60,1000000,2026-06-22
+OUT5542,Mishra PLC,General Trade,Kirana Store,West,Surat,Goa,7,100000,2023-09-01
+OUT5543,"Vohra, Pandey and Suri",General Trade,Kirana Store,Central,Bhopal,Meghalaya,45,50000,2024-04-08
+OUT5544,Mannan Group,E-commerce,JioMart,Central,Indore,Karnataka,15,500000,2026-05-03
+OUT5545,Bhatti LLC,General Trade,Provision Store,Central,Bhopal,Himachal Pradesh,7,250000,2023-11-24
+OUT5546,Oza-Madan,General Trade,Provision Store,Central,Bhopal,Uttar Pradesh,30,250000,2025-07-18
+OUT5547,"Bali, Sangha and Borde",General Trade,Provision Store,North,Lucknow,Assam,15,50000,2025-09-25
+OUT5548,"Doctor, Ravel and Ram",General Trade,Chemist,East,Bhubaneswar,Nagaland,30,50000,2023-12-21
+OUT5549,Rastogi Ltd,HoReCa,Restaurants,South,Hyderabad,Himachal Pradesh,60,500000,2024-05-23
+OUT5550,Bhagat-Bava,E-commerce,JioMart,East,Guwahati,Himachal Pradesh,30,1000000,2026-06-04
+OUT5551,Soman PLC,General Trade,Provision Store,South,Chennai,Jharkhand,30,500000,2026-06-01
+OUT5552,Mani Ltd,E-commerce,Amazon,East,Guwahati,Mizoram,7,50000,2024-06-30
+OUT5553,Shroff PLC,General Trade,Provision Store,Central,Bhopal,Haryana,45,1000000,2025-03-25
+OUT5554,Kashyap LLC,Modern Trade,D-Mart,South,Bangalore,Jharkhand,7,50000,2024-07-21
+OUT5555,Biswas-Oza,General Trade,Supermarket,East,Bhubaneswar,Tamil Nadu,15,500000,2024-06-01
+OUT5556,Kala LLC,General Trade,Kirana Store,North,Jaipur,Chhattisgarh,15,500000,2024-08-11
+OUT5557,"Mukherjee, Buch and Naidu",General Trade,Provision Store,South,Hyderabad,Jharkhand,15,100000,2023-07-31
+OUT5558,Nadkarni-Bassi,Institutional,Schools,East,Bhubaneswar,Meghalaya,0,500000,2025-02-12
+OUT5559,"Thaman, Bath and Lad",Modern Trade,D-Mart,Central,Bhopal,Telangana,60,100000,2023-12-14
+OUT5560,"Chatterjee, Ramaswamy and Kalla",General Trade,Provision Store,East,Guwahati,Uttar Pradesh,0,50000,2025-05-14
+OUT5561,Pant-Minhas,General Trade,Supermarket,South,Bangalore,West Bengal,7,250000,2023-07-24
+OUT5562,"Tank, Dua and Arora",General Trade,Chemist,East,Bhubaneswar,Arunachal Pradesh,30,250000,2024-03-20
+OUT5563,Oommen Inc,General Trade,Provision Store,South,Hyderabad,Rajasthan,60,1000000,2025-09-06
+OUT5564,Chacko-Krishnan,Institutional,Schools,West,Mumbai,Maharashtra,45,250000,2026-05-29
+OUT5565,"Patla, Agate and Contractor",General Trade,Chemist,Central,Indore,Meghalaya,60,50000,2023-11-10
+OUT5566,Sheth-Narasimhan,General Trade,Chemist,East,Guwahati,Andhra Pradesh,15,250000,2024-06-05
+OUT5567,Dey PLC,General Trade,Supermarket,East,Kolkata,Mizoram,45,100000,2024-04-28
+OUT5568,Krishna-Chada,Institutional,Canteens,Central,Nagpur,Jharkhand,15,100000,2024-08-03
+OUT5569,Din-Sarkar,E-commerce,JioMart,West,Ahmedabad,Gujarat,30,500000,2023-09-11
+OUT5570,"Ratta, Kanda and Buch",General Trade,Supermarket,North,Lucknow,Odisha,60,100000,2026-04-30
+OUT5571,Rajagopal LLC,General Trade,Chemist,West,Ahmedabad,Maharashtra,7,1000000,2023-07-07
+OUT5572,Vala-Chandran,Modern Trade,More,North,Jaipur,Himachal Pradesh,60,250000,2025-02-02
+OUT5573,Ganesh-Roy,E-commerce,Flipkart,Central,Nagpur,Uttar Pradesh,15,50000,2024-02-10
+OUT5574,Menon Ltd,General Trade,Chemist,South,Kochi,Telangana,15,250000,2026-06-13
+OUT5575,Bera and Sons,General Trade,Provision Store,East,Kolkata,Sikkim,30,50000,2023-09-16
+OUT5576,Mitter-Master,Institutional,Schools,Central,Indore,Tamil Nadu,7,1000000,2026-01-31
+OUT5577,Sane Inc,Modern Trade,Spencer,West,Ahmedabad,Sikkim,30,50000,2023-11-18
+OUT5578,Natt-Choudhary,Institutional,Offices,South,Chennai,Gujarat,15,500000,2026-05-30
+OUT5579,"Dhingra, Lalla and Sama",HoReCa,Restaurants,West,Ahmedabad,Himachal Pradesh,60,100000,2024-03-23
+OUT5580,"Kibe, Dasgupta and Magar",E-commerce,JioMart,West,Pune,Karnataka,15,50000,2024-08-04
+OUT5581,"Tailor, Sule and Pathak",Modern Trade,D-Mart,East,Kolkata,Sikkim,45,100000,2024-03-02
+OUT5582,"Dubey, Chaudhary and Singhal",General Trade,Supermarket,North,Chandigarh,Goa,60,500000,2025-07-08
+OUT5583,"Konda, Virk and Bandi",General Trade,Provision Store,West,Mumbai,Bihar,0,1000000,2024-08-29
+OUT5584,Chaudhary-Zachariah,Modern Trade,Reliance Retail,East,Bhubaneswar,Rajasthan,45,100000,2023-06-30
+OUT5585,"Dora, Seth and Sandhu",Modern Trade,D-Mart,North,Jaipur,Rajasthan,60,250000,2026-02-26
+OUT5586,Ramesh-Golla,General Trade,Provision Store,North,Lucknow,Sikkim,7,50000,2024-11-08
+OUT5587,Bail PLC,Institutional,Hospitals,East,Bhubaneswar,Madhya Pradesh,60,1000000,2024-02-02
+OUT5588,"Chad, Desai and Talwar",General Trade,Provision Store,East,Guwahati,Karnataka,7,250000,2023-07-05
+OUT5589,Solanki-Kunda,HoReCa,Cafes,West,Pune,Manipur,7,500000,2025-04-05
+OUT5590,Prashad and Sons,Modern Trade,D-Mart,South,Chennai,Jharkhand,60,50000,2026-06-06
+OUT5591,Madan Group,General Trade,Kirana Store,South,Hyderabad,Arunachal Pradesh,60,50000,2024-01-26
+OUT5592,"Shroff, Taneja and Borah",General Trade,Kirana Store,East,Guwahati,Tamil Nadu,0,50000,2026-03-25
+OUT5593,"Seshadri, Deshmukh and Sarma",General Trade,Kirana Store,North,Delhi,Telangana,30,500000,2023-07-01
+OUT5594,Minhas PLC,General Trade,Chemist,Central,Indore,West Bengal,60,100000,2024-08-14
+OUT5595,"Chad, Jhaveri and Patla",General Trade,Chemist,North,Chandigarh,Madhya Pradesh,60,50000,2023-07-09
+OUT5596,"Ramanathan, Mishra and Som",General Trade,Supermarket,East,Bhubaneswar,Nagaland,0,1000000,2024-05-29
+OUT5597,"Salvi, Kalla and Bumb",E-commerce,JioMart,North,Delhi,Haryana,0,500000,2023-10-07
+OUT5598,Kaur-Rai,Modern Trade,Big Bazaar,South,Chennai,Goa,15,500000,2026-03-27
+OUT5599,"Rau, Devi and Vala",General Trade,Provision Store,North,Jaipur,Manipur,60,500000,2025-08-03
+OUT5600,Kata-Nagar,General Trade,Kirana Store,North,Delhi,Karnataka,0,1000000,2023-09-27
+OUT5601,"Manda, Dube and Pandit",General Trade,Kirana Store,South,Bangalore,Madhya Pradesh,60,50000,2023-12-07
+OUT5602,Kadakia-Venkataraman,HoReCa,Caterers,South,Hyderabad,Jharkhand,15,500000,2025-02-26
+OUT5603,"Johal, Bhatt and Din",Modern Trade,Reliance Retail,South,Hyderabad,Assam,15,250000,2025-01-04
+OUT5604,Dasgupta-Balasubramanian,General Trade,Kirana Store,North,Delhi,Mizoram,0,100000,2024-09-09
+OUT5605,Naik-Iyer,General Trade,Chemist,South,Hyderabad,Meghalaya,30,1000000,2024-11-03
+OUT5606,Devan-Kashyap,General Trade,Chemist,North,Lucknow,Kerala,7,50000,2024-07-16
+OUT5607,Shankar Ltd,General Trade,Chemist,West,Surat,Manipur,60,500000,2026-03-20
+OUT5608,Basak-Sant,E-commerce,Amazon,South,Chennai,Punjab,60,50000,2023-10-22
+OUT5609,"D’Alia, Doshi and Choudhry",HoReCa,Hotels,South,Kochi,Chhattisgarh,45,500000,2023-11-14
+OUT5610,"Ganesh, Nair and Salvi",Institutional,Offices,West,Surat,Goa,15,1000000,2025-05-05
+OUT5611,Merchant-Kashyap,Modern Trade,More,South,Kochi,Andhra Pradesh,0,500000,2026-02-08
+OUT5612,"Narang, Mane and Bhatia",General Trade,Chemist,North,Lucknow,Sikkim,0,1000000,2024-07-24
+OUT5613,"Bahri, Varty and Murty",E-commerce,Blinkit,Central,Bhopal,Meghalaya,60,250000,2025-03-09
+OUT5614,"Kalla, Patla and Nadig",General Trade,Kirana Store,Central,Indore,Tamil Nadu,60,100000,2025-01-01
+OUT5615,Tandon-Nagi,General Trade,Supermarket,West,Mumbai,Odisha,0,100000,2023-08-06
+OUT5616,Dhingra Group,General Trade,Provision Store,West,Pune,Rajasthan,0,500000,2023-12-15
+OUT5617,Shenoy and Sons,General Trade,Chemist,East,Kolkata,Odisha,45,100000,2025-06-16
+OUT5618,Khatri Inc,General Trade,Provision Store,West,Pune,Himachal Pradesh,0,500000,2023-08-25
+OUT5619,Dugar-Shanker,General Trade,Provision Store,Central,Bhopal,Andhra Pradesh,30,500000,2026-01-07
+OUT5620,"Nanda, Raman and Jha",General Trade,Kirana Store,West,Mumbai,Goa,30,500000,2026-04-25
+OUT5621,Bandi LLC,Modern Trade,Reliance Retail,Central,Bhopal,Maharashtra,45,1000000,2023-09-14
+OUT5622,Tandon-Khatri,General Trade,Supermarket,Central,Nagpur,Chhattisgarh,60,500000,2024-12-15
+OUT5623,Narula and Sons,HoReCa,Hotels,East,Kolkata,Meghalaya,30,250000,2026-01-29
+OUT5624,Patel-Majumdar,General Trade,Provision Store,Central,Nagpur,Kerala,60,250000,2025-10-27
+OUT5625,Keer-Sagar,E-commerce,Amazon,North,Jaipur,Kerala,0,250000,2025-08-26
+OUT5626,"Gulati, Dube and Comar",General Trade,Chemist,East,Guwahati,Sikkim,0,50000,2024-08-19
+OUT5627,Kalla Ltd,Institutional,Offices,West,Surat,Jharkhand,0,250000,2025-06-23
+OUT5628,Samra-Kothari,General Trade,Kirana Store,South,Kochi,Uttar Pradesh,7,500000,2023-09-22
+OUT5629,Oza-Minhas,Institutional,Hospitals,South,Bangalore,Karnataka,30,50000,2024-08-01
+OUT5630,Garg-Sarma,HoReCa,Hotels,Central,Indore,Nagaland,30,1000000,2023-08-14
+OUT5631,"Brar, Oak and Sawhney",HoReCa,Caterers,South,Bangalore,Karnataka,45,50000,2024-11-01
+OUT5632,"Toor, Devi and Viswanathan",General Trade,Provision Store,West,Pune,Jharkhand,60,1000000,2025-08-07
+OUT5633,Gaba and Sons,Modern Trade,Reliance Retail,South,Kochi,Bihar,60,1000000,2024-12-14
+OUT5634,"Golla, Soni and Batra",General Trade,Provision Store,East,Bhubaneswar,Uttarakhand,45,100000,2026-03-02
+OUT5635,"Sagar, Gill and Tara",General Trade,Chemist,East,Bhubaneswar,Assam,7,100000,2024-05-22
+OUT5636,Parikh PLC,General Trade,Chemist,Central,Nagpur,Punjab,45,250000,2023-09-01
+OUT5637,Borra PLC,E-commerce,Flipkart,Central,Bhopal,Himachal Pradesh,7,1000000,2024-08-09
+OUT5638,"Choudhary, Karpe and Wali",E-commerce,Flipkart,East,Guwahati,Uttarakhand,60,100000,2025-06-05
+OUT5639,Varghese Inc,General Trade,Kirana Store,East,Bhubaneswar,Tamil Nadu,45,500000,2023-08-30
+OUT5640,Seth PLC,General Trade,Chemist,West,Surat,Himachal Pradesh,0,1000000,2025-07-18
+OUT5641,Jayaraman PLC,Modern Trade,D-Mart,West,Mumbai,Haryana,60,50000,2026-06-04
+OUT5642,"Maharaj, Mani and Chandra",Modern Trade,Big Bazaar,South,Hyderabad,Manipur,7,50000,2026-04-16
+OUT5643,Babu-Vohra,General Trade,Supermarket,East,Guwahati,Tripura,0,250000,2024-11-17
+OUT5644,"Sem, Virk and Raju",Institutional,Offices,North,Chandigarh,Telangana,7,1000000,2025-01-23
+OUT5645,Andra-Varghese,E-commerce,Amazon,East,Bhubaneswar,Gujarat,30,500000,2025-11-09
+OUT5646,"Zacharia, Nadig and Kala",HoReCa,Hotels,East,Kolkata,Rajasthan,60,250000,2024-10-09
+OUT5647,Hora LLC,General Trade,Supermarket,West,Ahmedabad,Sikkim,45,1000000,2024-01-26
+OUT5648,"Bhakta, Divan and Rastogi",E-commerce,Flipkart,South,Hyderabad,Gujarat,30,100000,2025-03-06
+OUT5649,Bhargava Inc,HoReCa,Restaurants,North,Jaipur,Chhattisgarh,60,1000000,2025-11-16
+OUT5650,"Pal, Bir and Guha",Modern Trade,More,North,Lucknow,Rajasthan,45,250000,2024-02-14
+OUT5651,Dhingra Group,Modern Trade,Big Bazaar,Central,Bhopal,Uttar Pradesh,15,500000,2024-12-08
+OUT5652,"Modi, Raja and Sundaram",E-commerce,Amazon,South,Chennai,Karnataka,15,1000000,2024-02-17
+OUT5653,Bansal LLC,Modern Trade,Big Bazaar,Central,Indore,Kerala,45,1000000,2024-03-26
+OUT5654,Dutta-Keer,General Trade,Supermarket,East,Kolkata,Madhya Pradesh,45,50000,2024-10-30
+OUT5655,"Madan, Basu and Bhandari",E-commerce,BigBasket,South,Kochi,Himachal Pradesh,0,250000,2023-12-29
+OUT5656,Goyal-Murthy,General Trade,Chemist,South,Hyderabad,Manipur,15,250000,2025-04-14
+OUT5657,Suri-Seth,General Trade,Provision Store,Central,Nagpur,Himachal Pradesh,60,50000,2025-10-15
+OUT5658,"Kulkarni, Kalita and Palla",Modern Trade,More,East,Kolkata,Uttarakhand,60,1000000,2024-08-11
+OUT5659,Singhal Ltd,HoReCa,Hotels,South,Hyderabad,West Bengal,30,50000,2024-11-16
+OUT5660,"Dubey, Kata and Chacko",General Trade,Chemist,Central,Bhopal,Punjab,45,250000,2025-02-15
+OUT5661,"Ramanathan, Kibe and Badal",General Trade,Provision Store,Central,Indore,Haryana,0,250000,2025-02-20
+OUT5662,"Saran, Som and Shanker",Institutional,Hospitals,South,Bangalore,Arunachal Pradesh,0,100000,2024-07-18
+OUT5663,"Barad, Dalal and Walia",HoReCa,Hotels,Central,Nagpur,Assam,0,100000,2024-11-08
+OUT5664,Kota-Sethi,General Trade,Provision Store,South,Bangalore,Arunachal Pradesh,7,1000000,2023-08-24
+OUT5665,Parmer-Desai,Institutional,Schools,West,Pune,Uttar Pradesh,0,500000,2025-05-27
+OUT5666,Gala and Sons,E-commerce,Amazon,North,Delhi,Maharashtra,0,100000,2024-01-10
+OUT5667,"Bala, Bava and Tailor",E-commerce,Amazon,Central,Nagpur,Haryana,7,250000,2024-05-10
+OUT5668,Rana-Sundaram,General Trade,Provision Store,West,Surat,Meghalaya,15,50000,2023-06-26
+OUT5669,Bera-Magar,General Trade,Kirana Store,North,Delhi,Nagaland,60,1000000,2025-02-05
+OUT5670,Comar Ltd,Modern Trade,Big Bazaar,North,Delhi,Punjab,15,250000,2024-08-22
+OUT5671,Keer Group,General Trade,Provision Store,East,Bhubaneswar,Jharkhand,30,50000,2024-10-27
+OUT5672,Acharya and Sons,General Trade,Supermarket,Central,Bhopal,Gujarat,60,500000,2025-04-11
+OUT5673,Luthra-Chana,E-commerce,JioMart,Central,Nagpur,Telangana,7,250000,2024-12-17
+OUT5674,"Subramanian, Rastogi and Choudhary",General Trade,Kirana Store,East,Guwahati,Andhra Pradesh,45,100000,2025-08-25
+OUT5675,Vaidya-Nadig,Modern Trade,Spencer,North,Chandigarh,Jharkhand,45,1000000,2025-05-28
+OUT5676,Gade-Kashyap,HoReCa,Restaurants,East,Guwahati,Himachal Pradesh,60,250000,2023-07-19
+OUT5677,Joshi-Hegde,General Trade,Supermarket,Central,Bhopal,Madhya Pradesh,7,100000,2024-04-25
+OUT5678,Singhal-Mane,General Trade,Supermarket,East,Kolkata,Madhya Pradesh,7,1000000,2025-02-18
+OUT5679,"Merchant, Sawhney and Srinivasan",Institutional,Canteens,Central,Nagpur,Odisha,45,50000,2026-03-24
+OUT5680,Nadkarni Group,General Trade,Chemist,North,Delhi,Bihar,7,1000000,2025-07-11
+OUT5681,"Mangal, Nagi and Bhavsar",General Trade,Chemist,East,Kolkata,Haryana,60,100000,2025-12-07
+OUT5682,Wagle-Char,Modern Trade,Reliance Retail,Central,Bhopal,Punjab,15,500000,2024-10-28
+OUT5683,Bose and Sons,General Trade,Chemist,Central,Nagpur,Chhattisgarh,45,100000,2025-06-03
+OUT5684,Samra-Nanda,General Trade,Chemist,East,Bhubaneswar,Arunachal Pradesh,7,50000,2024-01-18
+OUT5685,"Krish, Swaminathan and Nagar",General Trade,Provision Store,South,Hyderabad,Goa,15,100000,2024-06-01
+OUT5686,Setty PLC,General Trade,Provision Store,East,Bhubaneswar,Kerala,30,250000,2024-09-20
+OUT5687,"Bains, Narula and Wali",E-commerce,Blinkit,West,Mumbai,Maharashtra,7,1000000,2025-08-03
+OUT5688,"Cherian, Dalal and Dara",Modern Trade,D-Mart,East,Guwahati,Sikkim,7,250000,2026-01-17
+OUT5689,"Sekhon, Cheema and Atwal",E-commerce,Amazon,North,Delhi,Andhra Pradesh,45,50000,2024-11-11
+OUT5690,Jaggi-Cheema,Institutional,Canteens,Central,Nagpur,Sikkim,7,50000,2026-03-09
+OUT5691,Savant PLC,General Trade,Provision Store,Central,Nagpur,Bihar,7,250000,2024-02-03
+OUT5692,"Lata, Bhattacharyya and Kata",General Trade,Chemist,Central,Bhopal,Bihar,30,1000000,2024-01-01
+OUT5693,"Bassi, Saran and Babu",General Trade,Chemist,West,Mumbai,Tamil Nadu,60,100000,2025-10-16
+OUT5694,"Sura, Karpe and Khalsa",Institutional,Offices,Central,Nagpur,Tamil Nadu,7,500000,2025-02-09
+OUT5695,"Das, Dora and Parekh",Modern Trade,Spencer,Central,Nagpur,Haryana,7,500000,2025-03-28
+OUT5696,Raghavan-Bir,HoReCa,Restaurants,North,Chandigarh,Punjab,7,50000,2024-01-16
+OUT5697,Soni-Srinivasan,General Trade,Kirana Store,South,Chennai,Nagaland,45,250000,2025-06-01
+OUT5698,Goyal-Bora,General Trade,Kirana Store,West,Mumbai,Mizoram,60,250000,2024-01-08
+OUT5699,"Saran, Agate and Narayanan",Modern Trade,Big Bazaar,Central,Nagpur,Tamil Nadu,15,1000000,2026-05-12
+OUT5700,Wali Inc,General Trade,Provision Store,South,Kochi,Manipur,15,1000000,2025-04-07
+OUT5701,Lala-Rajagopal,General Trade,Chemist,North,Chandigarh,Mizoram,7,1000000,2026-03-13
+OUT5702,Grover-Thakur,General Trade,Provision Store,East,Bhubaneswar,Bihar,45,50000,2025-10-24
+OUT5703,Bajaj-Dhawan,General Trade,Provision Store,South,Chennai,Bihar,7,50000,2025-12-15
+OUT5704,"Chahal, Choudhry and Bajaj",General Trade,Supermarket,East,Kolkata,Goa,7,100000,2026-01-19
+OUT5705,"Warrior, Zachariah and Dhar",General Trade,Supermarket,North,Chandigarh,Chhattisgarh,15,50000,2025-12-08
+OUT5706,Kaul-Choudhury,General Trade,Provision Store,West,Pune,Andhra Pradesh,45,100000,2023-07-29
+OUT5707,"Sangha, Gera and Chand",General Trade,Kirana Store,West,Pune,Tripura,0,100000,2025-08-08
+OUT5708,"Chahal, Kala and Dada",General Trade,Supermarket,South,Bangalore,Manipur,45,100000,2025-01-31
+OUT5709,"Bansal, Naidu and Ramakrishnan",Modern Trade,D-Mart,East,Guwahati,Haryana,30,1000000,2026-01-14
+OUT5710,"Devi, Cherian and Lanka",HoReCa,Cafes,North,Delhi,Uttarakhand,7,500000,2026-04-21
+OUT5711,"Kaur, Sur and Bains",General Trade,Provision Store,West,Pune,Mizoram,7,500000,2025-04-11
+OUT5712,Guha LLC,General Trade,Supermarket,Central,Nagpur,Assam,60,1000000,2025-04-08
+OUT5713,Palla LLC,General Trade,Provision Store,East,Guwahati,Gujarat,45,50000,2024-04-05
+OUT5714,Subramaniam-Sen,General Trade,Supermarket,West,Mumbai,Haryana,0,100000,2025-10-18
+OUT5715,"Tak, Kata and Hayer",General Trade,Provision Store,Central,Bhopal,Assam,45,50000,2025-06-11
+OUT5716,Khalsa-Suresh,Modern Trade,Spencer,Central,Bhopal,Arunachal Pradesh,45,1000000,2024-05-04
+OUT5717,"Madan, Vora and Gopal",E-commerce,BigBasket,North,Jaipur,Odisha,45,1000000,2026-03-17
+OUT5718,Rajagopalan-Kalla,Institutional,Canteens,West,Ahmedabad,Meghalaya,0,1000000,2024-08-17
+OUT5719,Rama-Prakash,General Trade,Provision Store,West,Ahmedabad,Nagaland,45,1000000,2025-07-16
+OUT5720,"Kohli, Shenoy and Kalita",Modern Trade,Big Bazaar,South,Kochi,Maharashtra,7,50000,2023-09-05
+OUT5721,Acharya Ltd,General Trade,Provision Store,Central,Indore,Assam,7,50000,2025-01-19
+OUT5722,"Hans, Bhattacharyya and Pau",E-commerce,Blinkit,North,Delhi,Tamil Nadu,45,50000,2025-12-17
+OUT5723,Choudhury Ltd,General Trade,Chemist,South,Kochi,Sikkim,15,50000,2025-11-29
+OUT5724,Gulati and Sons,Modern Trade,Big Bazaar,Central,Indore,Karnataka,45,500000,2025-05-21
+OUT5725,Ramanathan LLC,General Trade,Chemist,Central,Nagpur,Kerala,30,100000,2026-04-04
+OUT5726,Bhasin-Balan,General Trade,Provision Store,Central,Bhopal,Rajasthan,15,1000000,2024-10-17
+OUT5727,Rattan Ltd,General Trade,Chemist,East,Guwahati,Jharkhand,15,500000,2023-06-26
+OUT5728,"Ghose, Sood and Trivedi",E-commerce,Flipkart,North,Chandigarh,Tripura,60,100000,2026-05-01
+OUT5729,"Banerjee, Basu and Madan",Modern Trade,More,Central,Indore,Madhya Pradesh,45,1000000,2026-03-28
+OUT5730,Prabhakar Group,General Trade,Supermarket,North,Chandigarh,Bihar,60,50000,2026-01-16
+OUT5731,Mannan-Grewal,Institutional,Canteens,South,Kochi,Jharkhand,0,50000,2026-03-19
+OUT5732,Bhasin-Kapadia,General Trade,Kirana Store,East,Guwahati,Chhattisgarh,0,500000,2023-12-15
+OUT5733,"Setty, Chaudhuri and Dutta",HoReCa,Cafes,West,Mumbai,Bihar,7,500000,2026-04-02
+OUT5734,Balasubramanian-Pathak,General Trade,Chemist,South,Chennai,Maharashtra,0,1000000,2026-01-03
+OUT5735,"Kala, Sodhi and Srinivas",General Trade,Supermarket,South,Bangalore,Tripura,15,100000,2025-10-14
+OUT5736,"Raju, Mohanty and Dora",General Trade,Kirana Store,South,Hyderabad,Telangana,30,250000,2025-12-31
+OUT5737,"Bumb, Buch and Acharya",General Trade,Supermarket,West,Mumbai,Karnataka,60,50000,2023-12-16
+OUT5738,"Goel, Datta and Sathe",HoReCa,Cafes,Central,Nagpur,Maharashtra,45,1000000,2024-08-26
+OUT5739,Kapadia-Manda,General Trade,Supermarket,East,Guwahati,Manipur,7,500000,2025-07-25
+OUT5740,Sidhu-Munshi,HoReCa,Hotels,Central,Indore,Madhya Pradesh,7,500000,2023-11-23
+OUT5741,Dhar-Iyengar,General Trade,Kirana Store,Central,Nagpur,Bihar,15,250000,2024-01-10
+OUT5742,Peri LLC,HoReCa,Cafes,Central,Nagpur,Punjab,45,250000,2026-03-22
+OUT5743,Butala Group,General Trade,Provision Store,West,Pune,Kerala,15,500000,2025-01-21
+OUT5744,"Behl, Chopra and Dhillon",General Trade,Kirana Store,Central,Indore,Andhra Pradesh,0,250000,2024-08-03
+OUT5745,Tella Inc,Modern Trade,D-Mart,South,Hyderabad,Andhra Pradesh,30,250000,2026-04-01
+OUT5746,"Karan, Kanda and Balasubramanian",General Trade,Chemist,North,Jaipur,Goa,15,50000,2024-05-21
+OUT5747,Ghose PLC,General Trade,Kirana Store,East,Guwahati,Punjab,7,500000,2024-10-13
+OUT5748,"Sahota, Badami and Lad",General Trade,Chemist,South,Chennai,Manipur,60,100000,2024-06-05
+OUT5749,"Sabharwal, Mannan and Dhillon",General Trade,Supermarket,South,Chennai,Haryana,15,100000,2024-05-30
+OUT5750,"Lalla, Shetty and Ganesh",General Trade,Chemist,South,Chennai,Odisha,0,50000,2026-05-07
+OUT5751,Aggarwal-Mahal,HoReCa,Hotels,West,Mumbai,Maharashtra,30,250000,2024-06-07
+OUT5752,Lal and Sons,General Trade,Chemist,West,Surat,Odisha,7,1000000,2024-10-09
+OUT5753,Sagar-Doshi,General Trade,Supermarket,South,Bangalore,Odisha,45,500000,2026-03-06
+OUT5754,Narang LLC,General Trade,Kirana Store,Central,Nagpur,Gujarat,15,500000,2025-07-17
+OUT5755,"Narasimhan, Kaul and Bath",Institutional,Canteens,South,Bangalore,Uttar Pradesh,60,1000000,2024-06-02
+OUT5756,"Anand, Mand and Rana",General Trade,Kirana Store,North,Jaipur,Sikkim,30,1000000,2025-11-10
+OUT5757,Palla-Sen,Modern Trade,Spencer,East,Bhubaneswar,Tripura,7,1000000,2024-05-10
+OUT5758,Kalita and Sons,General Trade,Provision Store,East,Guwahati,Tamil Nadu,15,250000,2025-10-12
+OUT5759,Sastry-Patla,Modern Trade,D-Mart,West,Surat,Andhra Pradesh,60,250000,2026-02-26
+OUT5760,Tank and Sons,General Trade,Chemist,West,Surat,Uttarakhand,7,1000000,2024-06-04
+OUT5761,Yohannan-Venkataraman,Modern Trade,D-Mart,Central,Bhopal,Uttarakhand,60,250000,2025-05-02
+OUT5762,"Bose, Singhal and Mohan",Institutional,Canteens,Central,Indore,Himachal Pradesh,7,100000,2025-04-10
+OUT5763,Dada Group,Institutional,Canteens,South,Bangalore,Mizoram,7,500000,2023-12-12
+OUT5764,Chad Inc,General Trade,Chemist,Central,Indore,West Bengal,15,250000,2024-10-25
+OUT5765,"Guha, Parikh and Gole",General Trade,Kirana Store,Central,Indore,Gujarat,0,100000,2026-01-23
+OUT5766,"Char, Kara and Devi",Modern Trade,More,East,Guwahati,West Bengal,0,500000,2025-06-07
+OUT5767,Ghose-Krishnan,E-commerce,JioMart,East,Bhubaneswar,Sikkim,45,1000000,2023-10-09
+OUT5768,"Chokshi, Kale and Saha",HoReCa,Cafes,East,Kolkata,Punjab,30,50000,2025-04-20
+OUT5769,Gill-Dugar,General Trade,Supermarket,Central,Nagpur,Haryana,45,1000000,2025-02-11
+OUT5770,"Jhaveri, Mallick and Varkey",Modern Trade,Big Bazaar,East,Bhubaneswar,Uttar Pradesh,60,1000000,2024-11-29
+OUT5771,"Dasgupta, Buch and Karnik",General Trade,Kirana Store,West,Surat,Odisha,45,250000,2026-03-06
+OUT5772,Devan-Chaudhari,General Trade,Supermarket,South,Hyderabad,Himachal Pradesh,30,1000000,2024-07-30
+OUT5773,Kurian Inc,General Trade,Kirana Store,North,Jaipur,Uttar Pradesh,15,100000,2024-07-14
+OUT5774,Srinivasan-Bhavsar,General Trade,Chemist,East,Guwahati,Telangana,60,500000,2024-09-27
+OUT5775,Singhal Ltd,General Trade,Chemist,West,Surat,Maharashtra,30,100000,2024-05-05
+OUT5776,Bava Inc,Modern Trade,D-Mart,North,Jaipur,Maharashtra,60,250000,2025-02-27
+OUT5777,Lanka Group,HoReCa,Restaurants,North,Jaipur,Andhra Pradesh,30,50000,2025-05-13
+OUT5778,"Madan, Mangal and Behl",Modern Trade,Spencer,West,Mumbai,Madhya Pradesh,0,500000,2025-05-17
+OUT5779,Mitter-Bava,General Trade,Kirana Store,North,Lucknow,Uttarakhand,45,100000,2023-10-31
+OUT5780,Oak and Sons,Modern Trade,Big Bazaar,West,Pune,Bihar,7,250000,2024-06-17
+OUT5781,Tata Inc,General Trade,Supermarket,South,Chennai,Jharkhand,0,50000,2024-10-30
+OUT5782,Divan-Menon,General Trade,Provision Store,East,Bhubaneswar,Punjab,45,250000,2025-05-23
+OUT5783,Lala PLC,General Trade,Supermarket,South,Kochi,Punjab,60,1000000,2025-08-02
+OUT5784,Deep-Goswami,General Trade,Chemist,Central,Indore,Karnataka,30,1000000,2024-05-15
+OUT5785,Rege Ltd,General Trade,Provision Store,North,Lucknow,Jharkhand,15,500000,2025-09-16
+OUT5786,"Kala, Yadav and Swaminathan",General Trade,Kirana Store,East,Kolkata,Nagaland,45,100000,2024-03-12
+OUT5787,"Rau, Gill and Misra",General Trade,Kirana Store,West,Surat,Andhra Pradesh,30,250000,2026-01-23
+OUT5788,"Sridhar, Agrawal and Gill",Modern Trade,Big Bazaar,West,Pune,Punjab,0,1000000,2025-01-12
+OUT5789,Nair-Deshmukh,General Trade,Provision Store,West,Surat,West Bengal,7,100000,2023-12-30
+OUT5790,Comar-Yadav,E-commerce,BigBasket,West,Pune,Andhra Pradesh,15,50000,2026-03-21
+OUT5791,"Soman, Goda and Prabhakar",General Trade,Chemist,South,Hyderabad,Madhya Pradesh,60,1000000,2023-07-01
+OUT5792,Bhavsar Inc,Institutional,Offices,West,Mumbai,Tripura,7,100000,2026-05-09
+OUT5793,Chhabra PLC,General Trade,Provision Store,West,Ahmedabad,Karnataka,60,1000000,2023-10-04
+OUT5794,"Wason, Gera and Vasa",General Trade,Kirana Store,East,Kolkata,Uttarakhand,0,1000000,2024-11-15
+OUT5795,"Goyal, Aggarwal and Ramachandran",Modern Trade,Big Bazaar,North,Lucknow,Manipur,7,500000,2024-07-28
+OUT5796,Loke Group,E-commerce,Amazon,South,Chennai,Uttarakhand,0,500000,2024-04-25
+OUT5797,Agate Ltd,General Trade,Chemist,West,Surat,Chhattisgarh,15,500000,2025-07-05
+OUT5798,Mitra LLC,General Trade,Chemist,North,Delhi,Manipur,7,50000,2026-03-22
+OUT5799,Handa-Loke,General Trade,Kirana Store,West,Surat,Sikkim,7,100000,2024-01-19
+OUT5800,Soni-Goswami,Institutional,Canteens,East,Kolkata,Goa,0,100000,2026-04-26

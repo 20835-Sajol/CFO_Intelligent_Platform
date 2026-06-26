@@ -1,0 +1,21 @@
+scheme_id,scheme_name,start_date,end_date,discount_pct,budget,channel,product_category
+SCH001,Promo_1_Volume,2025-06-06,2025-07-06,25,2500000,All,Home Care
+SCH002,Promo_2_Volume,2024-10-04,2024-12-01,25,2500000,HoReCa,Food & Beverages
+SCH003,Promo_3_BuyGet,2025-04-29,2025-06-05,25,5000000,Modern Trade,Dairy
+SCH004,Promo_4_BuyGet,2024-07-23,2024-10-15,15,1000000,General Trade,Bakery
+SCH005,Promo_5_FlatOff,2024-08-18,2024-09-23,10,500000,Institutional,All
+SCH006,Promo_6_FlatOff,2024-07-14,2024-08-30,10,5000000,All,All
+SCH007,Promo_7_Percent,2024-09-29,2024-11-02,25,500000,E-commerce,Personal Care
+SCH008,Promo_8_Volume,2026-06-11,2026-08-10,20,1000000,General Trade,Food & Beverages
+SCH009,Promo_9_BuyGet,2025-01-03,2025-03-15,5,2500000,E-commerce,Home Care
+SCH010,Promo_10_Volume,2026-01-18,2026-02-10,30,5000000,E-commerce,Bakery
+SCH011,Promo_11_BuyGet,2026-03-30,2026-05-24,15,2500000,Institutional,Personal Care
+SCH012,Promo_12_FlatOff,2024-09-29,2024-11-28,20,5000000,General Trade,Dairy
+SCH013,Promo_13_BuyGet,2026-05-08,2026-06-02,5,1000000,General Trade,Food & Beverages
+SCH014,Promo_14_BuyGet,2025-01-29,2025-04-11,15,1000000,E-commerce,Bakery
+SCH015,Promo_15_Volume,2024-12-07,2025-02-01,20,500000,HoReCa,Dairy
+SCH016,Promo_16_Percent,2025-11-20,2025-12-20,20,500000,E-commerce,Home Care
+SCH017,Promo_17_BuyGet,2025-12-03,2026-02-10,30,500000,E-commerce,Food & Beverages
+SCH018,Promo_18_Volume,2026-06-20,2026-07-29,30,500000,Institutional,All
+SCH019,Promo_19_BuyGet,2026-03-08,2026-05-29,30,500000,All,Dairy
+SCH020,Promo_20_Volume,2024-07-02,2024-08-23,10,500000,All,All

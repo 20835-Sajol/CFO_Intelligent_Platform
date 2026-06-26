@@ -1,0 +1,13 @@
+{
+  "python.defaultInterpreterPath": "d:/cfo_platform/venv/Scripts/python.exe",
+  "python.analysis.extraPaths": [
+    "d:/cfo_platform",
+    "d:/cfo_platform/utils",
+    "d:/cfo_platform/pages"
+  ],
+  "python.analysis.packageIndexDepths": {
+    "streamlit": 1,
+    "plotly": 1,
+    "pandas": 1
+  }
+}
