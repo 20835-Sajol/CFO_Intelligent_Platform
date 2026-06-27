@@ -23,7 +23,7 @@ xgboost==2.0.3
 torch==2.1.2+cpu
 
 # ============================================
-# Bayesian Methods (Page 20 - Fixed & Added)
+# Bayesian Methods (Page 20)
 # ============================================
 pymc==5.10.4
 arviz==0.18.0
