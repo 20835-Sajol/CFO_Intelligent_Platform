@@ -3,7 +3,7 @@
 # ============================================
 streamlit==1.31.0
 pandas==2.1.4
-numpy==1.26.3
+numpy==2.2.6
 plotly==5.18.0
 scikit-learn==1.4.0
 matplotlib==3.8.2
@@ -12,7 +12,6 @@ seaborn==0.13.2
 # ============================================
 # Time Series & Forecasting
 # ============================================
-# Upgraded to match your working local environment
 prophet==1.3.0
 statsmodels==0.14.1
 xgboost==2.0.3
@@ -20,9 +19,14 @@ xgboost==2.0.3
 # ============================================
 # Deep Learning (True CPU-only for Streamlit Cloud)
 # ============================================
-# This specific index tell pip to pull the lightweight 150MB CPU version
 --find-links https://download.pytorch.org/whl/cpu/torch_stable.html
 torch==2.1.2+cpu
+
+# ============================================
+# Bayesian Methods (Page 20 - Fixed & Added)
+# ============================================
+pymc==5.10.4
+arviz==0.18.0
 
 # ============================================
 # Customer & Graph Analytics
