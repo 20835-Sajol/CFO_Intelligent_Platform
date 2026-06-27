@@ -68,4 +68,3 @@ requests==2.31.0
 faker==24.0.0
 
 
-# & "C:\Users\HP\anaconda3\shell\condabin\conda-hook.ps1"
