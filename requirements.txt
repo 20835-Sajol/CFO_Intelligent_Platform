@@ -12,35 +12,23 @@ seaborn==0.13.2
 # ============================================
 # Time Series & Forecasting
 # ============================================
-prophet==1.1.5
+# Upgraded to match your working local environment
+prophet==1.3.0
 statsmodels==0.14.1
 xgboost==2.0.3
 
 # ============================================
-# Deep Learning (CPU-only for faster deploy)
+# Deep Learning (True CPU-only for Streamlit Cloud)
 # ============================================
-# Use CPU-only PyTorch (saves ~2GB and 10 min build time)
+# This specific index tell pip to pull the lightweight 150MB CPU version
+--find-links https://download.pytorch.org/whl/cpu/torch_stable.html
 torch==2.1.2+cpu
-# OR if you have specific GPU needs:
-# torch==2.1.2
 
 # ============================================
-# Bayesian Methods (Optional - heavy install)
-# ============================================
-# Comment out if not using page 20 (Bayesian Forecast)
-# Uncomment if needed:
-# pymc==5.10.4
-# arviz==0.18.0
-
-# ============================================
-# Customer Analytics
+# Customer & Graph Analytics
 # ============================================
 lifetimes==0.11.3
 lifelines==0.28.0
-
-# ============================================
-# Graph Analytics
-# ============================================
 networkx==3.2.1
 
 # ============================================
@@ -50,21 +38,11 @@ mlxtend==0.23.1
 shap==0.44.1
 
 # ============================================
-# NLP
+# NLP, Reporting & Utilities
 # ============================================
 vaderSentiment==3.3.2
-
-# ============================================
-# Reporting & Export
-# ============================================
 reportlab==4.1.0
 openpyxl==3.1.2
 fpdf2==2.7.6
-
-# ============================================
-# Utilities
-# ============================================
 requests==2.31.0
 faker==24.0.0
-
-

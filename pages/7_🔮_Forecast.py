@@ -1,12 +1,13 @@
 import streamlit as st
 import pandas as pd
-from prophet import Prophet
 import plotly.graph_objects as go
 from utils.data_loader import load_data
+from prophet import Prophet
 
 st.set_page_config(page_title="Forecast", page_icon="🔮", layout="wide")
 st.title("🔮 Revenue Forecast")
 
+# Load and process data
 data = load_data()
 sales = data['sales'].copy()
 
@@ -18,10 +19,19 @@ monthly['ds'] = monthly['ds'].dt.to_timestamp()
 st.subheader("📈 Historical vs Forecast")
 periods = st.slider("Forecast Months", 3, 24, 12)
 
-m = Prophet(yearly_seasonality=True, weekly_seasonality=True, daily_seasonality=False)
+# Pristine Initialization without any environment or logger hacks
+m = Prophet(
+    growth='linear',
+    yearly_seasonality=True, 
+    weekly_seasonality=False, # Disabled: Monthly points do not have weekly patterns
+    daily_seasonality=False
+)
+
+# Fit the model
 m.fit(monthly)
 
-future = m.make_future_dataframe(periods=periods, freq='M')
+# Generate future dates (Using MS for Month Start to match historical dates)
+future = m.make_future_dataframe(periods=periods, freq='MS')
 forecast = m.predict(future)
 
 # Plot
@@ -29,10 +39,10 @@ fig = go.Figure()
 fig.add_trace(go.Scatter(x=monthly['ds'], y=monthly['y'], mode='lines+markers', name='Actual'))
 fig.add_trace(go.Scatter(x=forecast['ds'], y=forecast['yhat'], mode='lines', name='Forecast'))
 fig.add_trace(go.Scatter(x=forecast['ds'], y=forecast['yhat_upper'], 
-                          mode='lines', line=dict(width=0), showlegend=False))
+                         mode='lines', line=dict(width=0), showlegend=False))
 fig.add_trace(go.Scatter(x=forecast['ds'], y=forecast['yhat_lower'],
-                          mode='lines', line=dict(width=0), fill='tonexty',
-                          fillcolor='rgba(0,100,80,0.2)', name='Confidence Interval'))
+                         mode='lines', line=dict(width=0), fill='tonexty',
+                         fillcolor='rgba(0,100,80,0.2)', name='Confidence Interval'))
 fig.update_layout(title=f'Revenue Forecast - Next {periods} Months', template='plotly_white')
 st.plotly_chart(fig, use_container_width=True)
 
